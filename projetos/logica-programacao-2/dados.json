@@ -1,0 +1,8010 @@
+[
+  {
+    "nome": "Pedro Martins",
+    "idade": 22,
+    "sexo": "Masculino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Carlos Oliveira",
+    "idade": 24,
+    "sexo": "Feminino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Rafael Oliveira",
+    "idade": 20,
+    "sexo": "Masculino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Camila Santos",
+    "idade": 18,
+    "sexo": "Feminino",
+    "empregado": true,
+    "area_atuacao": "Financas",
+    "salario": 4624.62
+  },
+  {
+    "nome": "Carlos Lima",
+    "idade": 33,
+    "sexo": "Masculino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Gabriela Ribeiro",
+    "idade": 47,
+    "sexo": "Masculino",
+    "empregado": true,
+    "area_atuacao": "Administracao",
+    "salario": 4908.54
+  },
+  {
+    "nome": "Camila Souza",
+    "idade": 41,
+    "sexo": "Masculino",
+    "empregado": true,
+    "area_atuacao": "Educacao",
+    "salario": 3581.14
+  },
+  {
+    "nome": "Ana Martins",
+    "idade": 49,
+    "sexo": "Feminino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Isabel Almeida",
+    "idade": 26,
+    "sexo": "Masculino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Lucas Oliveira",
+    "idade": 54,
+    "sexo": "Masculino",
+    "empregado": true,
+    "area_atuacao": "Educacao",
+    "salario": 8120.34
+  },
+  {
+    "nome": "Mariana Silva",
+    "idade": 39,
+    "sexo": "Masculino",
+    "empregado": true,
+    "area_atuacao": "TI",
+    "salario": 9313.38
+  },
+  {
+    "nome": "Jo\u00e3o Santos",
+    "idade": 30,
+    "sexo": "Masculino",
+    "empregado": true,
+    "area_atuacao": "TI",
+    "salario": 3054.59
+  },
+  {
+    "nome": "Carlos Ribeiro",
+    "idade": 34,
+    "sexo": "Feminino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Ana Almeida",
+    "idade": 31,
+    "sexo": "Feminino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Jo\u00e3o Silva",
+    "idade": 41,
+    "sexo": "Feminino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Rafael Santos",
+    "idade": 29,
+    "sexo": "Feminino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Ana Costa",
+    "idade": 49,
+    "sexo": "Feminino",
+    "empregado": true,
+    "area_atuacao": "Financas",
+    "salario": 9177.47
+  },
+  {
+    "nome": "Carlos Souza",
+    "idade": 56,
+    "sexo": "Masculino",
+    "empregado": true,
+    "area_atuacao": "Marketing",
+    "salario": 6627.72
+  },
+  {
+    "nome": "Rafael Lima",
+    "idade": 27,
+    "sexo": "Masculino",
+    "empregado": true,
+    "area_atuacao": "Financas",
+    "salario": 9000.18
+  },
+  {
+    "nome": "Rafael Costa",
+    "idade": 35,
+    "sexo": "Masculino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Rafael Santos",
+    "idade": 59,
+    "sexo": "Feminino",
+    "empregado": true,
+    "area_atuacao": "Educacao",
+    "salario": 4910.9
+  },
+  {
+    "nome": "Rafael Souza",
+    "idade": 42,
+    "sexo": "Masculino",
+    "empregado": true,
+    "area_atuacao": "Financas",
+    "salario": 5348.62
+  },
+  {
+    "nome": "Gabriela Santos",
+    "idade": 24,
+    "sexo": "Masculino",
+    "empregado": true,
+    "area_atuacao": "Engenharia",
+    "salario": 6874.66
+  },
+  {
+    "nome": "Isabel Souza",
+    "idade": 31,
+    "sexo": "Masculino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Isabel Costa",
+    "idade": 41,
+    "sexo": "Masculino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Camila Martins",
+    "idade": 34,
+    "sexo": "Masculino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Carlos Ribeiro",
+    "idade": 49,
+    "sexo": "Masculino",
+    "empregado": true,
+    "area_atuacao": "TI",
+    "salario": 8924.44
+  },
+  {
+    "nome": "Gabriela Lima",
+    "idade": 48,
+    "sexo": "Feminino",
+    "empregado": true,
+    "area_atuacao": "Engenharia",
+    "salario": 3718.79
+  },
+  {
+    "nome": "Lucas Lima",
+    "idade": 56,
+    "sexo": "Masculino",
+    "empregado": true,
+    "area_atuacao": "Administracao",
+    "salario": 7970.58
+  },
+  {
+    "nome": "Rafael Oliveira",
+    "idade": 31,
+    "sexo": "Masculino",
+    "empregado": true,
+    "area_atuacao": "Administracao",
+    "salario": 6782.6
+  },
+  {
+    "nome": "Rafael Pereira",
+    "idade": 34,
+    "sexo": "Feminino",
+    "empregado": true,
+    "area_atuacao": "Engenharia",
+    "salario": 7474.55
+  },
+  {
+    "nome": "Rafael Pereira",
+    "idade": 20,
+    "sexo": "Masculino",
+    "empregado": true,
+    "area_atuacao": "Marketing",
+    "salario": 5491.08
+  },
+  {
+    "nome": "Ana Santos",
+    "idade": 24,
+    "sexo": "Masculino",
+    "empregado": true,
+    "area_atuacao": "Saude",
+    "salario": 9610.15
+  },
+  {
+    "nome": "Isabel Almeida",
+    "idade": 31,
+    "sexo": "Masculino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Lucas Santos",
+    "idade": 43,
+    "sexo": "Feminino",
+    "empregado": true,
+    "area_atuacao": "Educacao",
+    "salario": 6359.9
+  },
+  {
+    "nome": "Ana Lima",
+    "idade": 57,
+    "sexo": "Masculino",
+    "empregado": true,
+    "area_atuacao": "Financas",
+    "salario": 3222.19
+  },
+  {
+    "nome": "Isabel Silva",
+    "idade": 55,
+    "sexo": "Feminino",
+    "empregado": true,
+    "area_atuacao": "Saude",
+    "salario": 8690.64
+  },
+  {
+    "nome": "Lucas Costa",
+    "idade": 50,
+    "sexo": "Masculino",
+    "empregado": true,
+    "area_atuacao": "Marketing",
+    "salario": 5316.96
+  },
+  {
+    "nome": "Isabel Lima",
+    "idade": 59,
+    "sexo": "Masculino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Lucas Martins",
+    "idade": 46,
+    "sexo": "Feminino",
+    "empregado": true,
+    "area_atuacao": "Financas",
+    "salario": 8482.34
+  },
+  {
+    "nome": "Lucas Lima",
+    "idade": 55,
+    "sexo": "Feminino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Pedro Santos",
+    "idade": 51,
+    "sexo": "Masculino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Lucas Souza",
+    "idade": 28,
+    "sexo": "Feminino",
+    "empregado": true,
+    "area_atuacao": "Saude",
+    "salario": 3185.18
+  },
+  {
+    "nome": "Camila Souza",
+    "idade": 56,
+    "sexo": "Masculino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Rafael Costa",
+    "idade": 40,
+    "sexo": "Feminino",
+    "empregado": true,
+    "area_atuacao": "Marketing",
+    "salario": 3556.81
+  },
+  {
+    "nome": "Mariana Oliveira",
+    "idade": 34,
+    "sexo": "Masculino",
+    "empregado": true,
+    "area_atuacao": "Engenharia",
+    "salario": 8237.68
+  },
+  {
+    "nome": "Isabel Lima",
+    "idade": 54,
+    "sexo": "Masculino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Jo\u00e3o Ribeiro",
+    "idade": 19,
+    "sexo": "Masculino",
+    "empregado": true,
+    "area_atuacao": "Saude",
+    "salario": 9158.11
+  },
+  {
+    "nome": "Gabriela Santos",
+    "idade": 47,
+    "sexo": "Masculino",
+    "empregado": true,
+    "area_atuacao": "Marketing",
+    "salario": 9757.88
+  },
+  {
+    "nome": "Mariana Santos",
+    "idade": 20,
+    "sexo": "Masculino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Gabriela Ribeiro",
+    "idade": 55,
+    "sexo": "Masculino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Ana Almeida",
+    "idade": 60,
+    "sexo": "Feminino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Ana Almeida",
+    "idade": 40,
+    "sexo": "Masculino",
+    "empregado": true,
+    "area_atuacao": "TI",
+    "salario": 4325.41
+  },
+  {
+    "nome": "Carlos Almeida",
+    "idade": 21,
+    "sexo": "Feminino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Ana Costa",
+    "idade": 18,
+    "sexo": "Masculino",
+    "empregado": true,
+    "area_atuacao": "Educacao",
+    "salario": 4891.49
+  },
+  {
+    "nome": "Carlos Pereira",
+    "idade": 42,
+    "sexo": "Masculino",
+    "empregado": true,
+    "area_atuacao": "Administracao",
+    "salario": 7688.76
+  },
+  {
+    "nome": "Camila Almeida",
+    "idade": 59,
+    "sexo": "Feminino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Rafael Costa",
+    "idade": 31,
+    "sexo": "Masculino",
+    "empregado": true,
+    "area_atuacao": "Financas",
+    "salario": 3580.64
+  },
+  {
+    "nome": "Mariana Almeida",
+    "idade": 27,
+    "sexo": "Feminino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Carlos Silva",
+    "idade": 51,
+    "sexo": "Feminino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Ana Almeida",
+    "idade": 33,
+    "sexo": "Masculino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Ana Silva",
+    "idade": 19,
+    "sexo": "Feminino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Ana Martins",
+    "idade": 21,
+    "sexo": "Masculino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Isabel Martins",
+    "idade": 28,
+    "sexo": "Masculino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Isabel Silva",
+    "idade": 55,
+    "sexo": "Masculino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Ana Lima",
+    "idade": 40,
+    "sexo": "Feminino",
+    "empregado": true,
+    "area_atuacao": "Marketing",
+    "salario": 4961.32
+  },
+  {
+    "nome": "Gabriela Martins",
+    "idade": 44,
+    "sexo": "Masculino",
+    "empregado": true,
+    "area_atuacao": "Saude",
+    "salario": 7369.9
+  },
+  {
+    "nome": "Camila Santos",
+    "idade": 46,
+    "sexo": "Masculino",
+    "empregado": true,
+    "area_atuacao": "Saude",
+    "salario": 7431.98
+  },
+  {
+    "nome": "Rafael Pereira",
+    "idade": 23,
+    "sexo": "Feminino",
+    "empregado": true,
+    "area_atuacao": "Engenharia",
+    "salario": 7613.91
+  },
+  {
+    "nome": "Camila Martins",
+    "idade": 38,
+    "sexo": "Feminino",
+    "empregado": true,
+    "area_atuacao": "Administracao",
+    "salario": 8566.81
+  },
+  {
+    "nome": "Carlos Pereira",
+    "idade": 24,
+    "sexo": "Masculino",
+    "empregado": true,
+    "area_atuacao": "Marketing",
+    "salario": 6904.0
+  },
+  {
+    "nome": "Pedro Pereira",
+    "idade": 55,
+    "sexo": "Feminino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Isabel Pereira",
+    "idade": 43,
+    "sexo": "Masculino",
+    "empregado": true,
+    "area_atuacao": "TI",
+    "salario": 7858.16
+  },
+  {
+    "nome": "Isabel Silva",
+    "idade": 35,
+    "sexo": "Feminino",
+    "empregado": true,
+    "area_atuacao": "Educacao",
+    "salario": 4545.85
+  },
+  {
+    "nome": "Pedro Ribeiro",
+    "idade": 42,
+    "sexo": "Feminino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Carlos Almeida",
+    "idade": 40,
+    "sexo": "Feminino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Ana Pereira",
+    "idade": 54,
+    "sexo": "Masculino",
+    "empregado": true,
+    "area_atuacao": "TI",
+    "salario": 5233.37
+  },
+  {
+    "nome": "Rafael Pereira",
+    "idade": 18,
+    "sexo": "Masculino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Mariana Lima",
+    "idade": 33,
+    "sexo": "Feminino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Rafael Oliveira",
+    "idade": 31,
+    "sexo": "Feminino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Pedro Santos",
+    "idade": 19,
+    "sexo": "Feminino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Ana Souza",
+    "idade": 57,
+    "sexo": "Masculino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Camila Santos",
+    "idade": 59,
+    "sexo": "Masculino",
+    "empregado": true,
+    "area_atuacao": "Saude",
+    "salario": 7299.11
+  },
+  {
+    "nome": "Rafael Ribeiro",
+    "idade": 42,
+    "sexo": "Feminino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Pedro Martins",
+    "idade": 52,
+    "sexo": "Masculino",
+    "empregado": true,
+    "area_atuacao": "Administracao",
+    "salario": 8425.18
+  },
+  {
+    "nome": "Mariana Ribeiro",
+    "idade": 56,
+    "sexo": "Feminino",
+    "empregado": true,
+    "area_atuacao": "Engenharia",
+    "salario": 3486.29
+  },
+  {
+    "nome": "Rafael Silva",
+    "idade": 59,
+    "sexo": "Masculino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Rafael Silva",
+    "idade": 18,
+    "sexo": "Feminino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Camila Pereira",
+    "idade": 20,
+    "sexo": "Feminino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Gabriela Pereira",
+    "idade": 50,
+    "sexo": "Masculino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Gabriela Silva",
+    "idade": 37,
+    "sexo": "Masculino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Mariana Oliveira",
+    "idade": 49,
+    "sexo": "Feminino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Mariana Santos",
+    "idade": 45,
+    "sexo": "Feminino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Isabel Souza",
+    "idade": 28,
+    "sexo": "Masculino",
+    "empregado": true,
+    "area_atuacao": "Marketing",
+    "salario": 6009.15
+  },
+  {
+    "nome": "Jo\u00e3o Santos",
+    "idade": 34,
+    "sexo": "Masculino",
+    "empregado": true,
+    "area_atuacao": "Saude",
+    "salario": 4197.68
+  },
+  {
+    "nome": "Rafael Silva",
+    "idade": 44,
+    "sexo": "Feminino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Gabriela Pereira",
+    "idade": 24,
+    "sexo": "Masculino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Camila Martins",
+    "idade": 34,
+    "sexo": "Feminino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Mariana Lima",
+    "idade": 27,
+    "sexo": "Feminino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Carlos Silva",
+    "idade": 47,
+    "sexo": "Masculino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Ana Souza",
+    "idade": 20,
+    "sexo": "Feminino",
+    "empregado": true,
+    "area_atuacao": "Educacao",
+    "salario": 8224.68
+  },
+  {
+    "nome": "Ana Martins",
+    "idade": 29,
+    "sexo": "Feminino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Pedro Martins",
+    "idade": 33,
+    "sexo": "Masculino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Rafael Costa",
+    "idade": 48,
+    "sexo": "Feminino",
+    "empregado": true,
+    "area_atuacao": "Marketing",
+    "salario": 9808.86
+  },
+  {
+    "nome": "Isabel Almeida",
+    "idade": 37,
+    "sexo": "Masculino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Jo\u00e3o Oliveira",
+    "idade": 57,
+    "sexo": "Masculino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Ana Costa",
+    "idade": 42,
+    "sexo": "Masculino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Mariana Ribeiro",
+    "idade": 29,
+    "sexo": "Feminino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Camila Santos",
+    "idade": 18,
+    "sexo": "Feminino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Ana Souza",
+    "idade": 43,
+    "sexo": "Feminino",
+    "empregado": true,
+    "area_atuacao": "TI",
+    "salario": 9764.8
+  },
+  {
+    "nome": "Rafael Almeida",
+    "idade": 29,
+    "sexo": "Masculino",
+    "empregado": true,
+    "area_atuacao": "Educacao",
+    "salario": 3312.1
+  },
+  {
+    "nome": "Carlos Souza",
+    "idade": 50,
+    "sexo": "Masculino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Carlos Lima",
+    "idade": 32,
+    "sexo": "Masculino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Jo\u00e3o Oliveira",
+    "idade": 21,
+    "sexo": "Feminino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Lucas Martins",
+    "idade": 53,
+    "sexo": "Feminino",
+    "empregado": true,
+    "area_atuacao": "Saude",
+    "salario": 8786.41
+  },
+  {
+    "nome": "Carlos Lima",
+    "idade": 31,
+    "sexo": "Feminino",
+    "empregado": true,
+    "area_atuacao": "TI",
+    "salario": 9663.74
+  },
+  {
+    "nome": "Pedro Ribeiro",
+    "idade": 38,
+    "sexo": "Masculino",
+    "empregado": true,
+    "area_atuacao": "Financas",
+    "salario": 7832.26
+  },
+  {
+    "nome": "Jo\u00e3o Martins",
+    "idade": 47,
+    "sexo": "Feminino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Isabel Ribeiro",
+    "idade": 46,
+    "sexo": "Masculino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Rafael Souza",
+    "idade": 41,
+    "sexo": "Masculino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Gabriela Almeida",
+    "idade": 53,
+    "sexo": "Feminino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Isabel Santos",
+    "idade": 56,
+    "sexo": "Feminino",
+    "empregado": true,
+    "area_atuacao": "Engenharia",
+    "salario": 8655.05
+  },
+  {
+    "nome": "Camila Costa",
+    "idade": 51,
+    "sexo": "Masculino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Rafael Almeida",
+    "idade": 41,
+    "sexo": "Masculino",
+    "empregado": true,
+    "area_atuacao": "Financas",
+    "salario": 5183.51
+  },
+  {
+    "nome": "Pedro Almeida",
+    "idade": 54,
+    "sexo": "Masculino",
+    "empregado": true,
+    "area_atuacao": "Marketing",
+    "salario": 9911.63
+  },
+  {
+    "nome": "Mariana Ribeiro",
+    "idade": 42,
+    "sexo": "Masculino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Carlos Silva",
+    "idade": 48,
+    "sexo": "Masculino",
+    "empregado": true,
+    "area_atuacao": "TI",
+    "salario": 5198.5
+  },
+  {
+    "nome": "Jo\u00e3o Lima",
+    "idade": 54,
+    "sexo": "Feminino",
+    "empregado": true,
+    "area_atuacao": "Financas",
+    "salario": 8114.1
+  },
+  {
+    "nome": "Ana Almeida",
+    "idade": 33,
+    "sexo": "Feminino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Carlos Silva",
+    "idade": 24,
+    "sexo": "Feminino",
+    "empregado": true,
+    "area_atuacao": "Financas",
+    "salario": 9306.25
+  },
+  {
+    "nome": "Camila Santos",
+    "idade": 26,
+    "sexo": "Masculino",
+    "empregado": true,
+    "area_atuacao": "Engenharia",
+    "salario": 5673.76
+  },
+  {
+    "nome": "Carlos Martins",
+    "idade": 33,
+    "sexo": "Feminino",
+    "empregado": true,
+    "area_atuacao": "Administracao",
+    "salario": 3268.66
+  },
+  {
+    "nome": "Gabriela Almeida",
+    "idade": 35,
+    "sexo": "Feminino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Ana Oliveira",
+    "idade": 41,
+    "sexo": "Feminino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Isabel Lima",
+    "idade": 54,
+    "sexo": "Feminino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Rafael Ribeiro",
+    "idade": 25,
+    "sexo": "Feminino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Carlos Silva",
+    "idade": 21,
+    "sexo": "Masculino",
+    "empregado": true,
+    "area_atuacao": "TI",
+    "salario": 4611.52
+  },
+  {
+    "nome": "Rafael Almeida",
+    "idade": 50,
+    "sexo": "Masculino",
+    "empregado": true,
+    "area_atuacao": "Engenharia",
+    "salario": 5294.21
+  },
+  {
+    "nome": "Isabel Almeida",
+    "idade": 48,
+    "sexo": "Feminino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Pedro Silva",
+    "idade": 25,
+    "sexo": "Feminino",
+    "empregado": true,
+    "area_atuacao": "Engenharia",
+    "salario": 3796.32
+  },
+  {
+    "nome": "Gabriela Martins",
+    "idade": 43,
+    "sexo": "Feminino",
+    "empregado": true,
+    "area_atuacao": "Financas",
+    "salario": 7636.03
+  },
+  {
+    "nome": "Carlos Costa",
+    "idade": 31,
+    "sexo": "Masculino",
+    "empregado": true,
+    "area_atuacao": "Engenharia",
+    "salario": 5870.65
+  },
+  {
+    "nome": "Carlos Almeida",
+    "idade": 41,
+    "sexo": "Feminino",
+    "empregado": true,
+    "area_atuacao": "Marketing",
+    "salario": 7587.71
+  },
+  {
+    "nome": "Mariana Souza",
+    "idade": 33,
+    "sexo": "Masculino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Lucas Pereira",
+    "idade": 25,
+    "sexo": "Feminino",
+    "empregado": true,
+    "area_atuacao": "Administracao",
+    "salario": 4280.13
+  },
+  {
+    "nome": "Gabriela Pereira",
+    "idade": 45,
+    "sexo": "Feminino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Camila Silva",
+    "idade": 30,
+    "sexo": "Masculino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Mariana Martins",
+    "idade": 34,
+    "sexo": "Feminino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Jo\u00e3o Oliveira",
+    "idade": 31,
+    "sexo": "Masculino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Gabriela Lima",
+    "idade": 19,
+    "sexo": "Feminino",
+    "empregado": true,
+    "area_atuacao": "Marketing",
+    "salario": 4827.99
+  },
+  {
+    "nome": "Rafael Silva",
+    "idade": 60,
+    "sexo": "Masculino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Pedro Pereira",
+    "idade": 55,
+    "sexo": "Feminino",
+    "empregado": true,
+    "area_atuacao": "Administracao",
+    "salario": 5265.55
+  },
+  {
+    "nome": "Isabel Pereira",
+    "idade": 57,
+    "sexo": "Feminino",
+    "empregado": true,
+    "area_atuacao": "Administracao",
+    "salario": 8596.72
+  },
+  {
+    "nome": "Camila Lima",
+    "idade": 55,
+    "sexo": "Masculino",
+    "empregado": true,
+    "area_atuacao": "Saude",
+    "salario": 7448.81
+  },
+  {
+    "nome": "Isabel Almeida",
+    "idade": 24,
+    "sexo": "Feminino",
+    "empregado": true,
+    "area_atuacao": "Financas",
+    "salario": 4884.6
+  },
+  {
+    "nome": "Camila Oliveira",
+    "idade": 21,
+    "sexo": "Feminino",
+    "empregado": true,
+    "area_atuacao": "Financas",
+    "salario": 9359.31
+  },
+  {
+    "nome": "Gabriela Santos",
+    "idade": 50,
+    "sexo": "Masculino",
+    "empregado": true,
+    "area_atuacao": "Marketing",
+    "salario": 9062.69
+  },
+  {
+    "nome": "Camila Lima",
+    "idade": 39,
+    "sexo": "Masculino",
+    "empregado": true,
+    "area_atuacao": "Marketing",
+    "salario": 3793.59
+  },
+  {
+    "nome": "Lucas Santos",
+    "idade": 55,
+    "sexo": "Masculino",
+    "empregado": true,
+    "area_atuacao": "Educacao",
+    "salario": 5340.0
+  },
+  {
+    "nome": "Gabriela Souza",
+    "idade": 40,
+    "sexo": "Feminino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Rafael Pereira",
+    "idade": 26,
+    "sexo": "Masculino",
+    "empregado": true,
+    "area_atuacao": "Marketing",
+    "salario": 7392.65
+  },
+  {
+    "nome": "Rafael Lima",
+    "idade": 31,
+    "sexo": "Masculino",
+    "empregado": true,
+    "area_atuacao": "Educacao",
+    "salario": 9810.11
+  },
+  {
+    "nome": "Rafael Almeida",
+    "idade": 23,
+    "sexo": "Masculino",
+    "empregado": true,
+    "area_atuacao": "Administracao",
+    "salario": 3094.83
+  },
+  {
+    "nome": "Carlos Oliveira",
+    "idade": 53,
+    "sexo": "Masculino",
+    "empregado": true,
+    "area_atuacao": "Saude",
+    "salario": 6072.56
+  },
+  {
+    "nome": "Gabriela Ribeiro",
+    "idade": 21,
+    "sexo": "Feminino",
+    "empregado": true,
+    "area_atuacao": "Engenharia",
+    "salario": 4624.95
+  },
+  {
+    "nome": "Jo\u00e3o Oliveira",
+    "idade": 58,
+    "sexo": "Feminino",
+    "empregado": true,
+    "area_atuacao": "Financas",
+    "salario": 7732.78
+  },
+  {
+    "nome": "Mariana Almeida",
+    "idade": 38,
+    "sexo": "Masculino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Rafael Pereira",
+    "idade": 60,
+    "sexo": "Feminino",
+    "empregado": true,
+    "area_atuacao": "Administracao",
+    "salario": 3226.55
+  },
+  {
+    "nome": "Pedro Oliveira",
+    "idade": 43,
+    "sexo": "Masculino",
+    "empregado": true,
+    "area_atuacao": "Marketing",
+    "salario": 5458.64
+  },
+  {
+    "nome": "Camila Souza",
+    "idade": 24,
+    "sexo": "Masculino",
+    "empregado": true,
+    "area_atuacao": "TI",
+    "salario": 5204.29
+  },
+  {
+    "nome": "Camila Almeida",
+    "idade": 29,
+    "sexo": "Masculino",
+    "empregado": true,
+    "area_atuacao": "Marketing",
+    "salario": 5159.05
+  },
+  {
+    "nome": "Rafael Martins",
+    "idade": 57,
+    "sexo": "Feminino",
+    "empregado": true,
+    "area_atuacao": "Marketing",
+    "salario": 4032.01
+  },
+  {
+    "nome": "Isabel Costa",
+    "idade": 25,
+    "sexo": "Masculino",
+    "empregado": true,
+    "area_atuacao": "Administracao",
+    "salario": 6004.02
+  },
+  {
+    "nome": "Isabel Lima",
+    "idade": 52,
+    "sexo": "Feminino",
+    "empregado": true,
+    "area_atuacao": "Administracao",
+    "salario": 6022.87
+  },
+  {
+    "nome": "Isabel Santos",
+    "idade": 46,
+    "sexo": "Masculino",
+    "empregado": true,
+    "area_atuacao": "Engenharia",
+    "salario": 8449.33
+  },
+  {
+    "nome": "Isabel Santos",
+    "idade": 57,
+    "sexo": "Feminino",
+    "empregado": true,
+    "area_atuacao": "Engenharia",
+    "salario": 4762.39
+  },
+  {
+    "nome": "Ana Ribeiro",
+    "idade": 48,
+    "sexo": "Feminino",
+    "empregado": true,
+    "area_atuacao": "Educacao",
+    "salario": 6837.94
+  },
+  {
+    "nome": "Gabriela Silva",
+    "idade": 41,
+    "sexo": "Masculino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Camila Ribeiro",
+    "idade": 42,
+    "sexo": "Feminino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Mariana Lima",
+    "idade": 58,
+    "sexo": "Masculino",
+    "empregado": true,
+    "area_atuacao": "Saude",
+    "salario": 3871.93
+  },
+  {
+    "nome": "Jo\u00e3o Costa",
+    "idade": 31,
+    "sexo": "Feminino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Lucas Souza",
+    "idade": 36,
+    "sexo": "Feminino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Isabel Costa",
+    "idade": 28,
+    "sexo": "Feminino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Pedro Santos",
+    "idade": 53,
+    "sexo": "Feminino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Carlos Almeida",
+    "idade": 21,
+    "sexo": "Masculino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Carlos Santos",
+    "idade": 27,
+    "sexo": "Feminino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Lucas Oliveira",
+    "idade": 25,
+    "sexo": "Masculino",
+    "empregado": true,
+    "area_atuacao": "Marketing",
+    "salario": 4418.71
+  },
+  {
+    "nome": "Camila Martins",
+    "idade": 34,
+    "sexo": "Feminino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Camila Costa",
+    "idade": 42,
+    "sexo": "Masculino",
+    "empregado": true,
+    "area_atuacao": "Administracao",
+    "salario": 9923.61
+  },
+  {
+    "nome": "Jo\u00e3o Santos",
+    "idade": 42,
+    "sexo": "Masculino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Mariana Lima",
+    "idade": 21,
+    "sexo": "Masculino",
+    "empregado": true,
+    "area_atuacao": "Educacao",
+    "salario": 4594.29
+  },
+  {
+    "nome": "Pedro Santos",
+    "idade": 30,
+    "sexo": "Feminino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Rafael Lima",
+    "idade": 52,
+    "sexo": "Masculino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Gabriela Silva",
+    "idade": 46,
+    "sexo": "Masculino",
+    "empregado": true,
+    "area_atuacao": "Financas",
+    "salario": 8682.67
+  },
+  {
+    "nome": "Carlos Silva",
+    "idade": 53,
+    "sexo": "Feminino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Jo\u00e3o Martins",
+    "idade": 42,
+    "sexo": "Masculino",
+    "empregado": true,
+    "area_atuacao": "Administracao",
+    "salario": 7446.45
+  },
+  {
+    "nome": "Isabel Souza",
+    "idade": 37,
+    "sexo": "Feminino",
+    "empregado": true,
+    "area_atuacao": "Financas",
+    "salario": 6512.66
+  },
+  {
+    "nome": "Jo\u00e3o Martins",
+    "idade": 58,
+    "sexo": "Feminino",
+    "empregado": true,
+    "area_atuacao": "Educacao",
+    "salario": 6977.9
+  },
+  {
+    "nome": "Pedro Costa",
+    "idade": 32,
+    "sexo": "Feminino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Ana Martins",
+    "idade": 56,
+    "sexo": "Masculino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Isabel Pereira",
+    "idade": 22,
+    "sexo": "Feminino",
+    "empregado": true,
+    "area_atuacao": "Saude",
+    "salario": 4413.26
+  },
+  {
+    "nome": "Lucas Costa",
+    "idade": 59,
+    "sexo": "Masculino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Jo\u00e3o Silva",
+    "idade": 19,
+    "sexo": "Masculino",
+    "empregado": true,
+    "area_atuacao": "Engenharia",
+    "salario": 7047.97
+  },
+  {
+    "nome": "Camila Pereira",
+    "idade": 35,
+    "sexo": "Masculino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Rafael Ribeiro",
+    "idade": 31,
+    "sexo": "Masculino",
+    "empregado": true,
+    "area_atuacao": "Engenharia",
+    "salario": 4581.96
+  },
+  {
+    "nome": "Rafael Ribeiro",
+    "idade": 58,
+    "sexo": "Masculino",
+    "empregado": true,
+    "area_atuacao": "Educacao",
+    "salario": 9713.24
+  },
+  {
+    "nome": "Isabel Almeida",
+    "idade": 53,
+    "sexo": "Masculino",
+    "empregado": true,
+    "area_atuacao": "Administracao",
+    "salario": 4790.29
+  },
+  {
+    "nome": "Gabriela Lima",
+    "idade": 25,
+    "sexo": "Masculino",
+    "empregado": true,
+    "area_atuacao": "Educacao",
+    "salario": 6681.83
+  },
+  {
+    "nome": "Jo\u00e3o Pereira",
+    "idade": 33,
+    "sexo": "Feminino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Carlos Oliveira",
+    "idade": 59,
+    "sexo": "Feminino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Ana Ribeiro",
+    "idade": 42,
+    "sexo": "Feminino",
+    "empregado": true,
+    "area_atuacao": "TI",
+    "salario": 3006.66
+  },
+  {
+    "nome": "Ana Santos",
+    "idade": 18,
+    "sexo": "Feminino",
+    "empregado": true,
+    "area_atuacao": "Financas",
+    "salario": 7123.14
+  },
+  {
+    "nome": "Pedro Martins",
+    "idade": 41,
+    "sexo": "Feminino",
+    "empregado": true,
+    "area_atuacao": "Engenharia",
+    "salario": 6290.93
+  },
+  {
+    "nome": "Pedro Pereira",
+    "idade": 58,
+    "sexo": "Masculino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Ana Lima",
+    "idade": 21,
+    "sexo": "Feminino",
+    "empregado": true,
+    "area_atuacao": "Educacao",
+    "salario": 8276.58
+  },
+  {
+    "nome": "Camila Lima",
+    "idade": 44,
+    "sexo": "Feminino",
+    "empregado": true,
+    "area_atuacao": "Administracao",
+    "salario": 9240.8
+  },
+  {
+    "nome": "Lucas Pereira",
+    "idade": 39,
+    "sexo": "Feminino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Jo\u00e3o Santos",
+    "idade": 35,
+    "sexo": "Feminino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Jo\u00e3o Santos",
+    "idade": 46,
+    "sexo": "Feminino",
+    "empregado": true,
+    "area_atuacao": "Educacao",
+    "salario": 7266.5
+  },
+  {
+    "nome": "Lucas Pereira",
+    "idade": 58,
+    "sexo": "Masculino",
+    "empregado": true,
+    "area_atuacao": "Marketing",
+    "salario": 7981.26
+  },
+  {
+    "nome": "Jo\u00e3o Silva",
+    "idade": 51,
+    "sexo": "Feminino",
+    "empregado": true,
+    "area_atuacao": "TI",
+    "salario": 5562.07
+  },
+  {
+    "nome": "Jo\u00e3o Martins",
+    "idade": 22,
+    "sexo": "Feminino",
+    "empregado": true,
+    "area_atuacao": "Financas",
+    "salario": 5104.55
+  },
+  {
+    "nome": "Gabriela Lima",
+    "idade": 29,
+    "sexo": "Feminino",
+    "empregado": true,
+    "area_atuacao": "TI",
+    "salario": 9554.03
+  },
+  {
+    "nome": "Ana Souza",
+    "idade": 21,
+    "sexo": "Feminino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Pedro Pereira",
+    "idade": 45,
+    "sexo": "Feminino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Camila Santos",
+    "idade": 31,
+    "sexo": "Feminino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Rafael Souza",
+    "idade": 53,
+    "sexo": "Masculino",
+    "empregado": true,
+    "area_atuacao": "Financas",
+    "salario": 3630.01
+  },
+  {
+    "nome": "Rafael Oliveira",
+    "idade": 44,
+    "sexo": "Masculino",
+    "empregado": true,
+    "area_atuacao": "Engenharia",
+    "salario": 4279.99
+  },
+  {
+    "nome": "Rafael Almeida",
+    "idade": 25,
+    "sexo": "Masculino",
+    "empregado": true,
+    "area_atuacao": "TI",
+    "salario": 6072.49
+  },
+  {
+    "nome": "Jo\u00e3o Souza",
+    "idade": 34,
+    "sexo": "Feminino",
+    "empregado": true,
+    "area_atuacao": "Administracao",
+    "salario": 7887.23
+  },
+  {
+    "nome": "Isabel Pereira",
+    "idade": 28,
+    "sexo": "Masculino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Isabel Silva",
+    "idade": 52,
+    "sexo": "Masculino",
+    "empregado": true,
+    "area_atuacao": "Marketing",
+    "salario": 6108.75
+  },
+  {
+    "nome": "Lucas Almeida",
+    "idade": 39,
+    "sexo": "Feminino",
+    "empregado": true,
+    "area_atuacao": "Educacao",
+    "salario": 3876.75
+  },
+  {
+    "nome": "Camila Lima",
+    "idade": 51,
+    "sexo": "Feminino",
+    "empregado": true,
+    "area_atuacao": "Marketing",
+    "salario": 8073.66
+  },
+  {
+    "nome": "Ana Martins",
+    "idade": 24,
+    "sexo": "Feminino",
+    "empregado": true,
+    "area_atuacao": "Educacao",
+    "salario": 7198.75
+  },
+  {
+    "nome": "Carlos Pereira",
+    "idade": 31,
+    "sexo": "Feminino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Gabriela Pereira",
+    "idade": 55,
+    "sexo": "Masculino",
+    "empregado": true,
+    "area_atuacao": "Administracao",
+    "salario": 4249.71
+  },
+  {
+    "nome": "Pedro Ribeiro",
+    "idade": 45,
+    "sexo": "Feminino",
+    "empregado": true,
+    "area_atuacao": "Educacao",
+    "salario": 8813.82
+  },
+  {
+    "nome": "Mariana Almeida",
+    "idade": 57,
+    "sexo": "Feminino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Lucas Costa",
+    "idade": 43,
+    "sexo": "Feminino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Rafael Lima",
+    "idade": 35,
+    "sexo": "Masculino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Jo\u00e3o Costa",
+    "idade": 57,
+    "sexo": "Masculino",
+    "empregado": true,
+    "area_atuacao": "Administracao",
+    "salario": 5508.36
+  },
+  {
+    "nome": "Carlos Lima",
+    "idade": 23,
+    "sexo": "Feminino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Lucas Ribeiro",
+    "idade": 57,
+    "sexo": "Masculino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Isabel Almeida",
+    "idade": 45,
+    "sexo": "Feminino",
+    "empregado": true,
+    "area_atuacao": "Administracao",
+    "salario": 7707.01
+  },
+  {
+    "nome": "Gabriela Lima",
+    "idade": 33,
+    "sexo": "Feminino",
+    "empregado": true,
+    "area_atuacao": "Administracao",
+    "salario": 3517.53
+  },
+  {
+    "nome": "Pedro Ribeiro",
+    "idade": 52,
+    "sexo": "Masculino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Camila Ribeiro",
+    "idade": 35,
+    "sexo": "Masculino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Pedro Almeida",
+    "idade": 19,
+    "sexo": "Masculino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Ana Santos",
+    "idade": 60,
+    "sexo": "Feminino",
+    "empregado": true,
+    "area_atuacao": "Administracao",
+    "salario": 4059.34
+  },
+  {
+    "nome": "Gabriela Santos",
+    "idade": 45,
+    "sexo": "Masculino",
+    "empregado": true,
+    "area_atuacao": "Marketing",
+    "salario": 8646.63
+  },
+  {
+    "nome": "Camila Santos",
+    "idade": 23,
+    "sexo": "Masculino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Carlos Oliveira",
+    "idade": 29,
+    "sexo": "Feminino",
+    "empregado": true,
+    "area_atuacao": "Saude",
+    "salario": 4128.85
+  },
+  {
+    "nome": "Gabriela Oliveira",
+    "idade": 51,
+    "sexo": "Feminino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Gabriela Silva",
+    "idade": 18,
+    "sexo": "Masculino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Mariana Santos",
+    "idade": 58,
+    "sexo": "Masculino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Ana Costa",
+    "idade": 48,
+    "sexo": "Masculino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Pedro Ribeiro",
+    "idade": 37,
+    "sexo": "Masculino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Jo\u00e3o Costa",
+    "idade": 26,
+    "sexo": "Masculino",
+    "empregado": true,
+    "area_atuacao": "Saude",
+    "salario": 9412.74
+  },
+  {
+    "nome": "Pedro Oliveira",
+    "idade": 36,
+    "sexo": "Masculino",
+    "empregado": true,
+    "area_atuacao": "Administracao",
+    "salario": 9691.07
+  },
+  {
+    "nome": "Isabel Martins",
+    "idade": 22,
+    "sexo": "Masculino",
+    "empregado": true,
+    "area_atuacao": "Administracao",
+    "salario": 8903.48
+  },
+  {
+    "nome": "Jo\u00e3o Ribeiro",
+    "idade": 26,
+    "sexo": "Masculino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Ana Lima",
+    "idade": 43,
+    "sexo": "Masculino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Pedro Ribeiro",
+    "idade": 49,
+    "sexo": "Masculino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Gabriela Santos",
+    "idade": 32,
+    "sexo": "Masculino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Mariana Oliveira",
+    "idade": 48,
+    "sexo": "Masculino",
+    "empregado": true,
+    "area_atuacao": "Engenharia",
+    "salario": 6679.37
+  },
+  {
+    "nome": "Mariana Costa",
+    "idade": 55,
+    "sexo": "Feminino",
+    "empregado": true,
+    "area_atuacao": "Administracao",
+    "salario": 8532.14
+  },
+  {
+    "nome": "Camila Ribeiro",
+    "idade": 38,
+    "sexo": "Masculino",
+    "empregado": true,
+    "area_atuacao": "Administracao",
+    "salario": 9803.96
+  },
+  {
+    "nome": "Lucas Oliveira",
+    "idade": 52,
+    "sexo": "Masculino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Isabel Martins",
+    "idade": 30,
+    "sexo": "Masculino",
+    "empregado": true,
+    "area_atuacao": "Saude",
+    "salario": 5681.94
+  },
+  {
+    "nome": "Pedro Pereira",
+    "idade": 36,
+    "sexo": "Feminino",
+    "empregado": true,
+    "area_atuacao": "Engenharia",
+    "salario": 5367.4
+  },
+  {
+    "nome": "Jo\u00e3o Souza",
+    "idade": 25,
+    "sexo": "Masculino",
+    "empregado": true,
+    "area_atuacao": "Administracao",
+    "salario": 8834.31
+  },
+  {
+    "nome": "Rafael Martins",
+    "idade": 36,
+    "sexo": "Masculino",
+    "empregado": true,
+    "area_atuacao": "Financas",
+    "salario": 4765.09
+  },
+  {
+    "nome": "Rafael Martins",
+    "idade": 35,
+    "sexo": "Feminino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Isabel Santos",
+    "idade": 51,
+    "sexo": "Feminino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Jo\u00e3o Oliveira",
+    "idade": 47,
+    "sexo": "Masculino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Rafael Silva",
+    "idade": 18,
+    "sexo": "Feminino",
+    "empregado": true,
+    "area_atuacao": "Administracao",
+    "salario": 7720.54
+  },
+  {
+    "nome": "Jo\u00e3o Oliveira",
+    "idade": 32,
+    "sexo": "Masculino",
+    "empregado": true,
+    "area_atuacao": "Saude",
+    "salario": 8349.39
+  },
+  {
+    "nome": "Ana Souza",
+    "idade": 43,
+    "sexo": "Masculino",
+    "empregado": true,
+    "area_atuacao": "Engenharia",
+    "salario": 6640.83
+  },
+  {
+    "nome": "Carlos Lima",
+    "idade": 56,
+    "sexo": "Masculino",
+    "empregado": true,
+    "area_atuacao": "TI",
+    "salario": 6965.31
+  },
+  {
+    "nome": "Jo\u00e3o Pereira",
+    "idade": 23,
+    "sexo": "Masculino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Mariana Costa",
+    "idade": 53,
+    "sexo": "Masculino",
+    "empregado": true,
+    "area_atuacao": "Saude",
+    "salario": 8556.64
+  },
+  {
+    "nome": "Gabriela Pereira",
+    "idade": 52,
+    "sexo": "Feminino",
+    "empregado": true,
+    "area_atuacao": "Administracao",
+    "salario": 7772.86
+  },
+  {
+    "nome": "Pedro Souza",
+    "idade": 38,
+    "sexo": "Masculino",
+    "empregado": true,
+    "area_atuacao": "Educacao",
+    "salario": 8281.53
+  },
+  {
+    "nome": "Jo\u00e3o Souza",
+    "idade": 50,
+    "sexo": "Masculino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Gabriela Costa",
+    "idade": 41,
+    "sexo": "Masculino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Camila Santos",
+    "idade": 39,
+    "sexo": "Masculino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Jo\u00e3o Silva",
+    "idade": 59,
+    "sexo": "Masculino",
+    "empregado": true,
+    "area_atuacao": "Financas",
+    "salario": 3706.3
+  },
+  {
+    "nome": "Camila Santos",
+    "idade": 40,
+    "sexo": "Masculino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Jo\u00e3o Souza",
+    "idade": 60,
+    "sexo": "Masculino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Rafael Lima",
+    "idade": 37,
+    "sexo": "Masculino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Ana Silva",
+    "idade": 58,
+    "sexo": "Feminino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Mariana Souza",
+    "idade": 56,
+    "sexo": "Feminino",
+    "empregado": true,
+    "area_atuacao": "Administracao",
+    "salario": 8410.3
+  },
+  {
+    "nome": "Pedro Lima",
+    "idade": 32,
+    "sexo": "Feminino",
+    "empregado": true,
+    "area_atuacao": "Educacao",
+    "salario": 4119.21
+  },
+  {
+    "nome": "Ana Silva",
+    "idade": 30,
+    "sexo": "Feminino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Gabriela Costa",
+    "idade": 29,
+    "sexo": "Masculino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Rafael Martins",
+    "idade": 51,
+    "sexo": "Masculino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Mariana Souza",
+    "idade": 42,
+    "sexo": "Feminino",
+    "empregado": true,
+    "area_atuacao": "TI",
+    "salario": 8028.27
+  },
+  {
+    "nome": "Lucas Martins",
+    "idade": 27,
+    "sexo": "Feminino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Lucas Oliveira",
+    "idade": 59,
+    "sexo": "Masculino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Gabriela Silva",
+    "idade": 29,
+    "sexo": "Masculino",
+    "empregado": true,
+    "area_atuacao": "Marketing",
+    "salario": 9850.67
+  },
+  {
+    "nome": "Carlos Silva",
+    "idade": 46,
+    "sexo": "Feminino",
+    "empregado": true,
+    "area_atuacao": "TI",
+    "salario": 4889.69
+  },
+  {
+    "nome": "Isabel Martins",
+    "idade": 41,
+    "sexo": "Feminino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Ana Lima",
+    "idade": 27,
+    "sexo": "Masculino",
+    "empregado": true,
+    "area_atuacao": "Financas",
+    "salario": 5110.07
+  },
+  {
+    "nome": "Carlos Almeida",
+    "idade": 24,
+    "sexo": "Masculino",
+    "empregado": true,
+    "area_atuacao": "Marketing",
+    "salario": 9530.52
+  },
+  {
+    "nome": "Jo\u00e3o Martins",
+    "idade": 36,
+    "sexo": "Masculino",
+    "empregado": true,
+    "area_atuacao": "Saude",
+    "salario": 6035.79
+  },
+  {
+    "nome": "Mariana Almeida",
+    "idade": 38,
+    "sexo": "Masculino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Ana Lima",
+    "idade": 41,
+    "sexo": "Masculino",
+    "empregado": true,
+    "area_atuacao": "Engenharia",
+    "salario": 7432.2
+  },
+  {
+    "nome": "Ana Martins",
+    "idade": 23,
+    "sexo": "Masculino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Ana Pereira",
+    "idade": 43,
+    "sexo": "Feminino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Jo\u00e3o Silva",
+    "idade": 52,
+    "sexo": "Feminino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Gabriela Ribeiro",
+    "idade": 18,
+    "sexo": "Feminino",
+    "empregado": true,
+    "area_atuacao": "Saude",
+    "salario": 4080.67
+  },
+  {
+    "nome": "Gabriela Ribeiro",
+    "idade": 40,
+    "sexo": "Masculino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Camila Costa",
+    "idade": 32,
+    "sexo": "Feminino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Jo\u00e3o Martins",
+    "idade": 56,
+    "sexo": "Masculino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Rafael Martins",
+    "idade": 36,
+    "sexo": "Masculino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Mariana Ribeiro",
+    "idade": 20,
+    "sexo": "Masculino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Isabel Silva",
+    "idade": 39,
+    "sexo": "Feminino",
+    "empregado": true,
+    "area_atuacao": "TI",
+    "salario": 7875.75
+  },
+  {
+    "nome": "Pedro Souza",
+    "idade": 24,
+    "sexo": "Masculino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Gabriela Oliveira",
+    "idade": 43,
+    "sexo": "Feminino",
+    "empregado": true,
+    "area_atuacao": "Engenharia",
+    "salario": 3161.13
+  },
+  {
+    "nome": "Rafael Pereira",
+    "idade": 32,
+    "sexo": "Feminino",
+    "empregado": true,
+    "area_atuacao": "Saude",
+    "salario": 7372.1
+  },
+  {
+    "nome": "Camila Souza",
+    "idade": 37,
+    "sexo": "Masculino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Lucas Santos",
+    "idade": 21,
+    "sexo": "Masculino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Mariana Oliveira",
+    "idade": 60,
+    "sexo": "Masculino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Gabriela Martins",
+    "idade": 24,
+    "sexo": "Feminino",
+    "empregado": true,
+    "area_atuacao": "Engenharia",
+    "salario": 7348.26
+  },
+  {
+    "nome": "Lucas Ribeiro",
+    "idade": 34,
+    "sexo": "Masculino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Rafael Santos",
+    "idade": 26,
+    "sexo": "Feminino",
+    "empregado": true,
+    "area_atuacao": "Engenharia",
+    "salario": 3632.79
+  },
+  {
+    "nome": "Gabriela Silva",
+    "idade": 44,
+    "sexo": "Masculino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Gabriela Souza",
+    "idade": 25,
+    "sexo": "Feminino",
+    "empregado": true,
+    "area_atuacao": "Educacao",
+    "salario": 7761.66
+  },
+  {
+    "nome": "Mariana Oliveira",
+    "idade": 39,
+    "sexo": "Masculino",
+    "empregado": true,
+    "area_atuacao": "TI",
+    "salario": 9070.04
+  },
+  {
+    "nome": "Camila Martins",
+    "idade": 45,
+    "sexo": "Masculino",
+    "empregado": true,
+    "area_atuacao": "Saude",
+    "salario": 8729.44
+  },
+  {
+    "nome": "Isabel Oliveira",
+    "idade": 42,
+    "sexo": "Masculino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Jo\u00e3o Santos",
+    "idade": 43,
+    "sexo": "Feminino",
+    "empregado": true,
+    "area_atuacao": "Marketing",
+    "salario": 4005.55
+  },
+  {
+    "nome": "Lucas Pereira",
+    "idade": 60,
+    "sexo": "Masculino",
+    "empregado": true,
+    "area_atuacao": "Saude",
+    "salario": 9063.33
+  },
+  {
+    "nome": "Gabriela Souza",
+    "idade": 46,
+    "sexo": "Masculino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Gabriela Almeida",
+    "idade": 47,
+    "sexo": "Masculino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Mariana Costa",
+    "idade": 38,
+    "sexo": "Feminino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Pedro Pereira",
+    "idade": 58,
+    "sexo": "Feminino",
+    "empregado": true,
+    "area_atuacao": "Marketing",
+    "salario": 6900.36
+  },
+  {
+    "nome": "Rafael Santos",
+    "idade": 22,
+    "sexo": "Masculino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Ana Silva",
+    "idade": 51,
+    "sexo": "Feminino",
+    "empregado": true,
+    "area_atuacao": "TI",
+    "salario": 8472.47
+  },
+  {
+    "nome": "Carlos Santos",
+    "idade": 38,
+    "sexo": "Masculino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Lucas Lima",
+    "idade": 20,
+    "sexo": "Feminino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Lucas Costa",
+    "idade": 54,
+    "sexo": "Feminino",
+    "empregado": true,
+    "area_atuacao": "Saude",
+    "salario": 4794.65
+  },
+  {
+    "nome": "Rafael Almeida",
+    "idade": 31,
+    "sexo": "Feminino",
+    "empregado": true,
+    "area_atuacao": "Administracao",
+    "salario": 4085.46
+  },
+  {
+    "nome": "Rafael Santos",
+    "idade": 56,
+    "sexo": "Feminino",
+    "empregado": true,
+    "area_atuacao": "Educacao",
+    "salario": 7536.08
+  },
+  {
+    "nome": "Pedro Lima",
+    "idade": 41,
+    "sexo": "Feminino",
+    "empregado": true,
+    "area_atuacao": "Financas",
+    "salario": 7180.37
+  },
+  {
+    "nome": "Camila Souza",
+    "idade": 22,
+    "sexo": "Masculino",
+    "empregado": true,
+    "area_atuacao": "TI",
+    "salario": 6783.79
+  },
+  {
+    "nome": "Isabel Martins",
+    "idade": 21,
+    "sexo": "Feminino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Camila Costa",
+    "idade": 22,
+    "sexo": "Masculino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Rafael Santos",
+    "idade": 35,
+    "sexo": "Feminino",
+    "empregado": true,
+    "area_atuacao": "Educacao",
+    "salario": 4571.55
+  },
+  {
+    "nome": "Carlos Silva",
+    "idade": 41,
+    "sexo": "Masculino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Carlos Lima",
+    "idade": 47,
+    "sexo": "Feminino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Rafael Pereira",
+    "idade": 29,
+    "sexo": "Feminino",
+    "empregado": true,
+    "area_atuacao": "Marketing",
+    "salario": 3922.26
+  },
+  {
+    "nome": "Isabel Martins",
+    "idade": 32,
+    "sexo": "Masculino",
+    "empregado": true,
+    "area_atuacao": "Marketing",
+    "salario": 9519.56
+  },
+  {
+    "nome": "Jo\u00e3o Almeida",
+    "idade": 30,
+    "sexo": "Feminino",
+    "empregado": true,
+    "area_atuacao": "Marketing",
+    "salario": 8148.99
+  },
+  {
+    "nome": "Jo\u00e3o Costa",
+    "idade": 31,
+    "sexo": "Feminino",
+    "empregado": true,
+    "area_atuacao": "Administracao",
+    "salario": 8786.24
+  },
+  {
+    "nome": "Carlos Oliveira",
+    "idade": 29,
+    "sexo": "Masculino",
+    "empregado": true,
+    "area_atuacao": "Educacao",
+    "salario": 9707.45
+  },
+  {
+    "nome": "Carlos Ribeiro",
+    "idade": 40,
+    "sexo": "Masculino",
+    "empregado": true,
+    "area_atuacao": "Marketing",
+    "salario": 7998.7
+  },
+  {
+    "nome": "Jo\u00e3o Silva",
+    "idade": 38,
+    "sexo": "Feminino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Carlos Pereira",
+    "idade": 60,
+    "sexo": "Feminino",
+    "empregado": true,
+    "area_atuacao": "Educacao",
+    "salario": 5216.2
+  },
+  {
+    "nome": "Jo\u00e3o Oliveira",
+    "idade": 33,
+    "sexo": "Feminino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Camila Silva",
+    "idade": 29,
+    "sexo": "Feminino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Lucas Santos",
+    "idade": 50,
+    "sexo": "Masculino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Pedro Martins",
+    "idade": 52,
+    "sexo": "Masculino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Camila Souza",
+    "idade": 24,
+    "sexo": "Masculino",
+    "empregado": true,
+    "area_atuacao": "Saude",
+    "salario": 7105.59
+  },
+  {
+    "nome": "Lucas Oliveira",
+    "idade": 58,
+    "sexo": "Masculino",
+    "empregado": true,
+    "area_atuacao": "TI",
+    "salario": 3843.86
+  },
+  {
+    "nome": "Isabel Martins",
+    "idade": 21,
+    "sexo": "Masculino",
+    "empregado": true,
+    "area_atuacao": "TI",
+    "salario": 3545.58
+  },
+  {
+    "nome": "Isabel Souza",
+    "idade": 32,
+    "sexo": "Feminino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Lucas Souza",
+    "idade": 24,
+    "sexo": "Feminino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Carlos Silva",
+    "idade": 27,
+    "sexo": "Masculino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Pedro Santos",
+    "idade": 34,
+    "sexo": "Feminino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Isabel Almeida",
+    "idade": 38,
+    "sexo": "Masculino",
+    "empregado": true,
+    "area_atuacao": "Financas",
+    "salario": 8821.63
+  },
+  {
+    "nome": "Mariana Ribeiro",
+    "idade": 21,
+    "sexo": "Masculino",
+    "empregado": true,
+    "area_atuacao": "Educacao",
+    "salario": 7561.84
+  },
+  {
+    "nome": "Pedro Martins",
+    "idade": 34,
+    "sexo": "Masculino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Gabriela Ribeiro",
+    "idade": 40,
+    "sexo": "Masculino",
+    "empregado": true,
+    "area_atuacao": "Marketing",
+    "salario": 8736.93
+  },
+  {
+    "nome": "Lucas Lima",
+    "idade": 45,
+    "sexo": "Feminino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Camila Martins",
+    "idade": 25,
+    "sexo": "Feminino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Mariana Ribeiro",
+    "idade": 58,
+    "sexo": "Masculino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Isabel Pereira",
+    "idade": 55,
+    "sexo": "Masculino",
+    "empregado": true,
+    "area_atuacao": "Saude",
+    "salario": 6344.75
+  },
+  {
+    "nome": "Mariana Santos",
+    "idade": 35,
+    "sexo": "Masculino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Carlos Almeida",
+    "idade": 39,
+    "sexo": "Feminino",
+    "empregado": true,
+    "area_atuacao": "Financas",
+    "salario": 7524.41
+  },
+  {
+    "nome": "Rafael Almeida",
+    "idade": 38,
+    "sexo": "Masculino",
+    "empregado": true,
+    "area_atuacao": "Marketing",
+    "salario": 3510.76
+  },
+  {
+    "nome": "Isabel Pereira",
+    "idade": 20,
+    "sexo": "Feminino",
+    "empregado": true,
+    "area_atuacao": "Saude",
+    "salario": 9519.87
+  },
+  {
+    "nome": "Ana Souza",
+    "idade": 42,
+    "sexo": "Masculino",
+    "empregado": true,
+    "area_atuacao": "Administracao",
+    "salario": 4745.72
+  },
+  {
+    "nome": "Camila Santos",
+    "idade": 35,
+    "sexo": "Masculino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Camila Souza",
+    "idade": 56,
+    "sexo": "Masculino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Mariana Almeida",
+    "idade": 49,
+    "sexo": "Masculino",
+    "empregado": true,
+    "area_atuacao": "Educacao",
+    "salario": 8496.01
+  },
+  {
+    "nome": "Jo\u00e3o Lima",
+    "idade": 51,
+    "sexo": "Feminino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Jo\u00e3o Martins",
+    "idade": 43,
+    "sexo": "Masculino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Jo\u00e3o Lima",
+    "idade": 49,
+    "sexo": "Masculino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Lucas Lima",
+    "idade": 32,
+    "sexo": "Masculino",
+    "empregado": true,
+    "area_atuacao": "Financas",
+    "salario": 3111.37
+  },
+  {
+    "nome": "Camila Lima",
+    "idade": 57,
+    "sexo": "Feminino",
+    "empregado": true,
+    "area_atuacao": "Engenharia",
+    "salario": 3622.71
+  },
+  {
+    "nome": "Gabriela Ribeiro",
+    "idade": 56,
+    "sexo": "Feminino",
+    "empregado": true,
+    "area_atuacao": "Saude",
+    "salario": 7577.8
+  },
+  {
+    "nome": "Rafael Ribeiro",
+    "idade": 54,
+    "sexo": "Feminino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Ana Silva",
+    "idade": 28,
+    "sexo": "Masculino",
+    "empregado": true,
+    "area_atuacao": "Financas",
+    "salario": 7023.76
+  },
+  {
+    "nome": "Ana Silva",
+    "idade": 26,
+    "sexo": "Masculino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Pedro Lima",
+    "idade": 48,
+    "sexo": "Masculino",
+    "empregado": true,
+    "area_atuacao": "Saude",
+    "salario": 7477.54
+  },
+  {
+    "nome": "Lucas Costa",
+    "idade": 51,
+    "sexo": "Feminino",
+    "empregado": true,
+    "area_atuacao": "Saude",
+    "salario": 8633.73
+  },
+  {
+    "nome": "Mariana Souza",
+    "idade": 18,
+    "sexo": "Feminino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Ana Ribeiro",
+    "idade": 60,
+    "sexo": "Masculino",
+    "empregado": true,
+    "area_atuacao": "Financas",
+    "salario": 8985.94
+  },
+  {
+    "nome": "Rafael Santos",
+    "idade": 42,
+    "sexo": "Feminino",
+    "empregado": true,
+    "area_atuacao": "Administracao",
+    "salario": 6918.7
+  },
+  {
+    "nome": "Lucas Oliveira",
+    "idade": 43,
+    "sexo": "Feminino",
+    "empregado": true,
+    "area_atuacao": "Educacao",
+    "salario": 3996.64
+  },
+  {
+    "nome": "Jo\u00e3o Martins",
+    "idade": 43,
+    "sexo": "Masculino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Mariana Souza",
+    "idade": 60,
+    "sexo": "Feminino",
+    "empregado": true,
+    "area_atuacao": "Educacao",
+    "salario": 3417.98
+  },
+  {
+    "nome": "Lucas Silva",
+    "idade": 55,
+    "sexo": "Masculino",
+    "empregado": true,
+    "area_atuacao": "Educacao",
+    "salario": 3045.35
+  },
+  {
+    "nome": "Carlos Martins",
+    "idade": 59,
+    "sexo": "Feminino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Lucas Silva",
+    "idade": 36,
+    "sexo": "Masculino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Pedro Souza",
+    "idade": 44,
+    "sexo": "Feminino",
+    "empregado": true,
+    "area_atuacao": "TI",
+    "salario": 3668.86
+  },
+  {
+    "nome": "Isabel Costa",
+    "idade": 34,
+    "sexo": "Masculino",
+    "empregado": true,
+    "area_atuacao": "TI",
+    "salario": 6364.15
+  },
+  {
+    "nome": "Ana Costa",
+    "idade": 41,
+    "sexo": "Masculino",
+    "empregado": true,
+    "area_atuacao": "Engenharia",
+    "salario": 9494.18
+  },
+  {
+    "nome": "Pedro Costa",
+    "idade": 31,
+    "sexo": "Feminino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Isabel Costa",
+    "idade": 37,
+    "sexo": "Masculino",
+    "empregado": true,
+    "area_atuacao": "Saude",
+    "salario": 9158.44
+  },
+  {
+    "nome": "Rafael Souza",
+    "idade": 30,
+    "sexo": "Feminino",
+    "empregado": true,
+    "area_atuacao": "Educacao",
+    "salario": 7964.73
+  },
+  {
+    "nome": "Carlos Pereira",
+    "idade": 36,
+    "sexo": "Masculino",
+    "empregado": true,
+    "area_atuacao": "Educacao",
+    "salario": 3519.95
+  },
+  {
+    "nome": "Isabel Oliveira",
+    "idade": 25,
+    "sexo": "Masculino",
+    "empregado": true,
+    "area_atuacao": "Administracao",
+    "salario": 9323.52
+  },
+  {
+    "nome": "Rafael Ribeiro",
+    "idade": 45,
+    "sexo": "Masculino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Camila Pereira",
+    "idade": 32,
+    "sexo": "Masculino",
+    "empregado": true,
+    "area_atuacao": "TI",
+    "salario": 3976.49
+  },
+  {
+    "nome": "Mariana Pereira",
+    "idade": 34,
+    "sexo": "Feminino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Camila Pereira",
+    "idade": 24,
+    "sexo": "Masculino",
+    "empregado": true,
+    "area_atuacao": "Educacao",
+    "salario": 3348.46
+  },
+  {
+    "nome": "Pedro Santos",
+    "idade": 31,
+    "sexo": "Masculino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Jo\u00e3o Almeida",
+    "idade": 60,
+    "sexo": "Feminino",
+    "empregado": true,
+    "area_atuacao": "Marketing",
+    "salario": 8707.6
+  },
+  {
+    "nome": "Isabel Souza",
+    "idade": 21,
+    "sexo": "Feminino",
+    "empregado": true,
+    "area_atuacao": "TI",
+    "salario": 8323.24
+  },
+  {
+    "nome": "Gabriela Ribeiro",
+    "idade": 42,
+    "sexo": "Masculino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Carlos Lima",
+    "idade": 30,
+    "sexo": "Feminino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Carlos Oliveira",
+    "idade": 21,
+    "sexo": "Feminino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Isabel Souza",
+    "idade": 51,
+    "sexo": "Feminino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Pedro Oliveira",
+    "idade": 39,
+    "sexo": "Masculino",
+    "empregado": true,
+    "area_atuacao": "Saude",
+    "salario": 3509.48
+  },
+  {
+    "nome": "Pedro Silva",
+    "idade": 19,
+    "sexo": "Masculino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Jo\u00e3o Ribeiro",
+    "idade": 57,
+    "sexo": "Feminino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Mariana Oliveira",
+    "idade": 52,
+    "sexo": "Feminino",
+    "empregado": true,
+    "area_atuacao": "Saude",
+    "salario": 8876.32
+  },
+  {
+    "nome": "Jo\u00e3o Lima",
+    "idade": 30,
+    "sexo": "Masculino",
+    "empregado": true,
+    "area_atuacao": "TI",
+    "salario": 3932.39
+  },
+  {
+    "nome": "Mariana Silva",
+    "idade": 28,
+    "sexo": "Feminino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Mariana Lima",
+    "idade": 43,
+    "sexo": "Masculino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Mariana Souza",
+    "idade": 40,
+    "sexo": "Feminino",
+    "empregado": true,
+    "area_atuacao": "TI",
+    "salario": 5949.43
+  },
+  {
+    "nome": "Gabriela Souza",
+    "idade": 49,
+    "sexo": "Masculino",
+    "empregado": true,
+    "area_atuacao": "Engenharia",
+    "salario": 6165.8
+  },
+  {
+    "nome": "Carlos Silva",
+    "idade": 24,
+    "sexo": "Masculino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Isabel Silva",
+    "idade": 19,
+    "sexo": "Feminino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Jo\u00e3o Ribeiro",
+    "idade": 44,
+    "sexo": "Feminino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Rafael Oliveira",
+    "idade": 49,
+    "sexo": "Feminino",
+    "empregado": true,
+    "area_atuacao": "Administracao",
+    "salario": 7032.84
+  },
+  {
+    "nome": "Lucas Pereira",
+    "idade": 59,
+    "sexo": "Feminino",
+    "empregado": true,
+    "area_atuacao": "Saude",
+    "salario": 3950.33
+  },
+  {
+    "nome": "Camila Martins",
+    "idade": 53,
+    "sexo": "Masculino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Rafael Martins",
+    "idade": 32,
+    "sexo": "Feminino",
+    "empregado": true,
+    "area_atuacao": "Saude",
+    "salario": 5940.62
+  },
+  {
+    "nome": "Mariana Silva",
+    "idade": 58,
+    "sexo": "Masculino",
+    "empregado": true,
+    "area_atuacao": "Saude",
+    "salario": 8416.09
+  },
+  {
+    "nome": "Ana Silva",
+    "idade": 44,
+    "sexo": "Masculino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Rafael Ribeiro",
+    "idade": 52,
+    "sexo": "Masculino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Jo\u00e3o Lima",
+    "idade": 28,
+    "sexo": "Feminino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Carlos Costa",
+    "idade": 59,
+    "sexo": "Feminino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Jo\u00e3o Santos",
+    "idade": 60,
+    "sexo": "Feminino",
+    "empregado": true,
+    "area_atuacao": "Engenharia",
+    "salario": 8506.13
+  },
+  {
+    "nome": "Gabriela Almeida",
+    "idade": 53,
+    "sexo": "Feminino",
+    "empregado": true,
+    "area_atuacao": "Educacao",
+    "salario": 3732.93
+  },
+  {
+    "nome": "Jo\u00e3o Almeida",
+    "idade": 38,
+    "sexo": "Feminino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Lucas Souza",
+    "idade": 49,
+    "sexo": "Feminino",
+    "empregado": true,
+    "area_atuacao": "Financas",
+    "salario": 3885.39
+  },
+  {
+    "nome": "Mariana Oliveira",
+    "idade": 24,
+    "sexo": "Feminino",
+    "empregado": true,
+    "area_atuacao": "Engenharia",
+    "salario": 9637.19
+  },
+  {
+    "nome": "Ana Lima",
+    "idade": 34,
+    "sexo": "Feminino",
+    "empregado": true,
+    "area_atuacao": "Saude",
+    "salario": 5972.21
+  },
+  {
+    "nome": "Mariana Martins",
+    "idade": 21,
+    "sexo": "Feminino",
+    "empregado": true,
+    "area_atuacao": "Saude",
+    "salario": 6410.24
+  },
+  {
+    "nome": "Pedro Pereira",
+    "idade": 55,
+    "sexo": "Feminino",
+    "empregado": true,
+    "area_atuacao": "Financas",
+    "salario": 6075.35
+  },
+  {
+    "nome": "Isabel Souza",
+    "idade": 48,
+    "sexo": "Masculino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Ana Almeida",
+    "idade": 47,
+    "sexo": "Feminino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Mariana Martins",
+    "idade": 49,
+    "sexo": "Feminino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Mariana Ribeiro",
+    "idade": 51,
+    "sexo": "Masculino",
+    "empregado": true,
+    "area_atuacao": "Administracao",
+    "salario": 7127.44
+  },
+  {
+    "nome": "Camila Pereira",
+    "idade": 23,
+    "sexo": "Feminino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Pedro Ribeiro",
+    "idade": 40,
+    "sexo": "Feminino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Isabel Santos",
+    "idade": 57,
+    "sexo": "Feminino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Carlos Almeida",
+    "idade": 23,
+    "sexo": "Masculino",
+    "empregado": true,
+    "area_atuacao": "Saude",
+    "salario": 8054.2
+  },
+  {
+    "nome": "Rafael Martins",
+    "idade": 28,
+    "sexo": "Masculino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Mariana Oliveira",
+    "idade": 59,
+    "sexo": "Feminino",
+    "empregado": true,
+    "area_atuacao": "Financas",
+    "salario": 4616.48
+  },
+  {
+    "nome": "Jo\u00e3o Martins",
+    "idade": 29,
+    "sexo": "Feminino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Pedro Souza",
+    "idade": 48,
+    "sexo": "Masculino",
+    "empregado": true,
+    "area_atuacao": "Educacao",
+    "salario": 5088.41
+  },
+  {
+    "nome": "Camila Lima",
+    "idade": 32,
+    "sexo": "Feminino",
+    "empregado": true,
+    "area_atuacao": "Administracao",
+    "salario": 7920.32
+  },
+  {
+    "nome": "Mariana Oliveira",
+    "idade": 59,
+    "sexo": "Masculino",
+    "empregado": true,
+    "area_atuacao": "Engenharia",
+    "salario": 3560.51
+  },
+  {
+    "nome": "Rafael Costa",
+    "idade": 32,
+    "sexo": "Masculino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Jo\u00e3o Ribeiro",
+    "idade": 41,
+    "sexo": "Masculino",
+    "empregado": true,
+    "area_atuacao": "Administracao",
+    "salario": 7973.54
+  },
+  {
+    "nome": "Pedro Souza",
+    "idade": 44,
+    "sexo": "Masculino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Gabriela Almeida",
+    "idade": 22,
+    "sexo": "Feminino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Mariana Ribeiro",
+    "idade": 52,
+    "sexo": "Masculino",
+    "empregado": true,
+    "area_atuacao": "Financas",
+    "salario": 9804.59
+  },
+  {
+    "nome": "Ana Almeida",
+    "idade": 45,
+    "sexo": "Feminino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Ana Oliveira",
+    "idade": 48,
+    "sexo": "Feminino",
+    "empregado": true,
+    "area_atuacao": "TI",
+    "salario": 5265.6
+  },
+  {
+    "nome": "Jo\u00e3o Souza",
+    "idade": 36,
+    "sexo": "Feminino",
+    "empregado": true,
+    "area_atuacao": "Educacao",
+    "salario": 4922.38
+  },
+  {
+    "nome": "Ana Santos",
+    "idade": 24,
+    "sexo": "Feminino",
+    "empregado": true,
+    "area_atuacao": "Marketing",
+    "salario": 6578.89
+  },
+  {
+    "nome": "Isabel Santos",
+    "idade": 43,
+    "sexo": "Feminino",
+    "empregado": true,
+    "area_atuacao": "TI",
+    "salario": 5430.2
+  },
+  {
+    "nome": "Pedro Ribeiro",
+    "idade": 29,
+    "sexo": "Masculino",
+    "empregado": true,
+    "area_atuacao": "TI",
+    "salario": 6994.5
+  },
+  {
+    "nome": "Camila Pereira",
+    "idade": 38,
+    "sexo": "Feminino",
+    "empregado": true,
+    "area_atuacao": "Saude",
+    "salario": 6891.69
+  },
+  {
+    "nome": "Jo\u00e3o Souza",
+    "idade": 48,
+    "sexo": "Feminino",
+    "empregado": true,
+    "area_atuacao": "Administracao",
+    "salario": 8147.56
+  },
+  {
+    "nome": "Lucas Almeida",
+    "idade": 56,
+    "sexo": "Masculino",
+    "empregado": true,
+    "area_atuacao": "Engenharia",
+    "salario": 3010.92
+  },
+  {
+    "nome": "Jo\u00e3o Santos",
+    "idade": 25,
+    "sexo": "Masculino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Isabel Martins",
+    "idade": 18,
+    "sexo": "Masculino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Isabel Costa",
+    "idade": 26,
+    "sexo": "Feminino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Lucas Silva",
+    "idade": 30,
+    "sexo": "Feminino",
+    "empregado": true,
+    "area_atuacao": "Saude",
+    "salario": 9462.99
+  },
+  {
+    "nome": "Gabriela Almeida",
+    "idade": 53,
+    "sexo": "Feminino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Ana Oliveira",
+    "idade": 54,
+    "sexo": "Masculino",
+    "empregado": true,
+    "area_atuacao": "Engenharia",
+    "salario": 3210.82
+  },
+  {
+    "nome": "Isabel Almeida",
+    "idade": 50,
+    "sexo": "Masculino",
+    "empregado": true,
+    "area_atuacao": "Educacao",
+    "salario": 8028.45
+  },
+  {
+    "nome": "Camila Ribeiro",
+    "idade": 40,
+    "sexo": "Feminino",
+    "empregado": true,
+    "area_atuacao": "Engenharia",
+    "salario": 5713.38
+  },
+  {
+    "nome": "Gabriela Ribeiro",
+    "idade": 32,
+    "sexo": "Feminino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Pedro Costa",
+    "idade": 24,
+    "sexo": "Feminino",
+    "empregado": true,
+    "area_atuacao": "Administracao",
+    "salario": 4776.44
+  },
+  {
+    "nome": "Camila Lima",
+    "idade": 21,
+    "sexo": "Feminino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Carlos Almeida",
+    "idade": 58,
+    "sexo": "Feminino",
+    "empregado": true,
+    "area_atuacao": "Administracao",
+    "salario": 3716.21
+  },
+  {
+    "nome": "Jo\u00e3o Costa",
+    "idade": 45,
+    "sexo": "Feminino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Lucas Santos",
+    "idade": 24,
+    "sexo": "Feminino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Gabriela Lima",
+    "idade": 46,
+    "sexo": "Masculino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Carlos Santos",
+    "idade": 60,
+    "sexo": "Masculino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Isabel Ribeiro",
+    "idade": 52,
+    "sexo": "Masculino",
+    "empregado": true,
+    "area_atuacao": "Marketing",
+    "salario": 3950.06
+  },
+  {
+    "nome": "Camila Almeida",
+    "idade": 55,
+    "sexo": "Feminino",
+    "empregado": true,
+    "area_atuacao": "Engenharia",
+    "salario": 9598.28
+  },
+  {
+    "nome": "Camila Santos",
+    "idade": 27,
+    "sexo": "Feminino",
+    "empregado": true,
+    "area_atuacao": "Administracao",
+    "salario": 9351.15
+  },
+  {
+    "nome": "Jo\u00e3o Almeida",
+    "idade": 22,
+    "sexo": "Feminino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Carlos Silva",
+    "idade": 57,
+    "sexo": "Masculino",
+    "empregado": true,
+    "area_atuacao": "Engenharia",
+    "salario": 5543.26
+  },
+  {
+    "nome": "Jo\u00e3o Lima",
+    "idade": 20,
+    "sexo": "Feminino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Carlos Oliveira",
+    "idade": 25,
+    "sexo": "Feminino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Ana Pereira",
+    "idade": 35,
+    "sexo": "Masculino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Carlos Santos",
+    "idade": 26,
+    "sexo": "Masculino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Camila Oliveira",
+    "idade": 52,
+    "sexo": "Feminino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Jo\u00e3o Almeida",
+    "idade": 36,
+    "sexo": "Masculino",
+    "empregado": true,
+    "area_atuacao": "Financas",
+    "salario": 6091.32
+  },
+  {
+    "nome": "Ana Santos",
+    "idade": 22,
+    "sexo": "Feminino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Mariana Santos",
+    "idade": 43,
+    "sexo": "Masculino",
+    "empregado": true,
+    "area_atuacao": "TI",
+    "salario": 9952.94
+  },
+  {
+    "nome": "Camila Oliveira",
+    "idade": 37,
+    "sexo": "Masculino",
+    "empregado": true,
+    "area_atuacao": "Saude",
+    "salario": 7793.49
+  },
+  {
+    "nome": "Lucas Souza",
+    "idade": 22,
+    "sexo": "Feminino",
+    "empregado": true,
+    "area_atuacao": "TI",
+    "salario": 8701.02
+  },
+  {
+    "nome": "Camila Pereira",
+    "idade": 57,
+    "sexo": "Feminino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Camila Santos",
+    "idade": 50,
+    "sexo": "Feminino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Mariana Silva",
+    "idade": 25,
+    "sexo": "Feminino",
+    "empregado": true,
+    "area_atuacao": "Administracao",
+    "salario": 5680.88
+  },
+  {
+    "nome": "Jo\u00e3o Almeida",
+    "idade": 28,
+    "sexo": "Masculino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Mariana Silva",
+    "idade": 32,
+    "sexo": "Feminino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Jo\u00e3o Souza",
+    "idade": 53,
+    "sexo": "Masculino",
+    "empregado": true,
+    "area_atuacao": "TI",
+    "salario": 7331.63
+  },
+  {
+    "nome": "Lucas Souza",
+    "idade": 21,
+    "sexo": "Masculino",
+    "empregado": true,
+    "area_atuacao": "Administracao",
+    "salario": 8688.99
+  },
+  {
+    "nome": "Pedro Martins",
+    "idade": 35,
+    "sexo": "Feminino",
+    "empregado": true,
+    "area_atuacao": "Financas",
+    "salario": 3475.14
+  },
+  {
+    "nome": "Camila Almeida",
+    "idade": 55,
+    "sexo": "Masculino",
+    "empregado": true,
+    "area_atuacao": "Educacao",
+    "salario": 8927.94
+  },
+  {
+    "nome": "Mariana Martins",
+    "idade": 55,
+    "sexo": "Masculino",
+    "empregado": true,
+    "area_atuacao": "Engenharia",
+    "salario": 6801.21
+  },
+  {
+    "nome": "Rafael Santos",
+    "idade": 32,
+    "sexo": "Feminino",
+    "empregado": true,
+    "area_atuacao": "Marketing",
+    "salario": 8331.47
+  },
+  {
+    "nome": "Isabel Costa",
+    "idade": 39,
+    "sexo": "Feminino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Gabriela Pereira",
+    "idade": 45,
+    "sexo": "Feminino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Camila Martins",
+    "idade": 38,
+    "sexo": "Feminino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Ana Silva",
+    "idade": 60,
+    "sexo": "Masculino",
+    "empregado": true,
+    "area_atuacao": "Saude",
+    "salario": 5002.44
+  },
+  {
+    "nome": "Ana Martins",
+    "idade": 46,
+    "sexo": "Feminino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Lucas Costa",
+    "idade": 29,
+    "sexo": "Feminino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Rafael Souza",
+    "idade": 38,
+    "sexo": "Feminino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Mariana Souza",
+    "idade": 19,
+    "sexo": "Masculino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Lucas Pereira",
+    "idade": 45,
+    "sexo": "Feminino",
+    "empregado": true,
+    "area_atuacao": "Financas",
+    "salario": 7386.46
+  },
+  {
+    "nome": "Mariana Lima",
+    "idade": 38,
+    "sexo": "Feminino",
+    "empregado": true,
+    "area_atuacao": "TI",
+    "salario": 8600.25
+  },
+  {
+    "nome": "Pedro Ribeiro",
+    "idade": 32,
+    "sexo": "Masculino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Ana Martins",
+    "idade": 26,
+    "sexo": "Masculino",
+    "empregado": true,
+    "area_atuacao": "Marketing",
+    "salario": 4573.57
+  },
+  {
+    "nome": "Camila Lima",
+    "idade": 37,
+    "sexo": "Feminino",
+    "empregado": true,
+    "area_atuacao": "Educacao",
+    "salario": 9520.23
+  },
+  {
+    "nome": "Ana Santos",
+    "idade": 46,
+    "sexo": "Feminino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Rafael Lima",
+    "idade": 49,
+    "sexo": "Feminino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Carlos Ribeiro",
+    "idade": 29,
+    "sexo": "Masculino",
+    "empregado": true,
+    "area_atuacao": "Saude",
+    "salario": 7781.06
+  },
+  {
+    "nome": "Ana Martins",
+    "idade": 35,
+    "sexo": "Feminino",
+    "empregado": true,
+    "area_atuacao": "Saude",
+    "salario": 9720.67
+  },
+  {
+    "nome": "Isabel Santos",
+    "idade": 34,
+    "sexo": "Masculino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Mariana Silva",
+    "idade": 58,
+    "sexo": "Feminino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Gabriela Oliveira",
+    "idade": 50,
+    "sexo": "Masculino",
+    "empregado": true,
+    "area_atuacao": "Financas",
+    "salario": 3944.36
+  },
+  {
+    "nome": "Rafael Souza",
+    "idade": 33,
+    "sexo": "Masculino",
+    "empregado": true,
+    "area_atuacao": "Financas",
+    "salario": 7903.77
+  },
+  {
+    "nome": "Carlos Santos",
+    "idade": 41,
+    "sexo": "Masculino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Rafael Martins",
+    "idade": 26,
+    "sexo": "Masculino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Ana Oliveira",
+    "idade": 29,
+    "sexo": "Feminino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Lucas Costa",
+    "idade": 33,
+    "sexo": "Masculino",
+    "empregado": true,
+    "area_atuacao": "Administracao",
+    "salario": 7939.82
+  },
+  {
+    "nome": "Camila Lima",
+    "idade": 39,
+    "sexo": "Feminino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Camila Lima",
+    "idade": 28,
+    "sexo": "Feminino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Mariana Silva",
+    "idade": 20,
+    "sexo": "Masculino",
+    "empregado": true,
+    "area_atuacao": "Saude",
+    "salario": 6609.73
+  },
+  {
+    "nome": "Camila Silva",
+    "idade": 23,
+    "sexo": "Masculino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Carlos Almeida",
+    "idade": 28,
+    "sexo": "Masculino",
+    "empregado": true,
+    "area_atuacao": "Engenharia",
+    "salario": 3158.77
+  },
+  {
+    "nome": "Lucas Silva",
+    "idade": 24,
+    "sexo": "Masculino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Rafael Silva",
+    "idade": 42,
+    "sexo": "Feminino",
+    "empregado": true,
+    "area_atuacao": "Educacao",
+    "salario": 9835.51
+  },
+  {
+    "nome": "Rafael Costa",
+    "idade": 33,
+    "sexo": "Masculino",
+    "empregado": true,
+    "area_atuacao": "Engenharia",
+    "salario": 3240.94
+  },
+  {
+    "nome": "Gabriela Costa",
+    "idade": 39,
+    "sexo": "Masculino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Rafael Pereira",
+    "idade": 58,
+    "sexo": "Masculino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Isabel Souza",
+    "idade": 52,
+    "sexo": "Masculino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Mariana Santos",
+    "idade": 50,
+    "sexo": "Masculino",
+    "empregado": true,
+    "area_atuacao": "Administracao",
+    "salario": 4957.45
+  },
+  {
+    "nome": "Mariana Costa",
+    "idade": 54,
+    "sexo": "Feminino",
+    "empregado": true,
+    "area_atuacao": "Engenharia",
+    "salario": 9520.51
+  },
+  {
+    "nome": "Pedro Silva",
+    "idade": 44,
+    "sexo": "Masculino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Mariana Costa",
+    "idade": 54,
+    "sexo": "Feminino",
+    "empregado": true,
+    "area_atuacao": "Financas",
+    "salario": 9671.55
+  },
+  {
+    "nome": "Jo\u00e3o Oliveira",
+    "idade": 46,
+    "sexo": "Masculino",
+    "empregado": true,
+    "area_atuacao": "Saude",
+    "salario": 3488.54
+  },
+  {
+    "nome": "Pedro Pereira",
+    "idade": 60,
+    "sexo": "Feminino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Pedro Martins",
+    "idade": 24,
+    "sexo": "Feminino",
+    "empregado": true,
+    "area_atuacao": "Financas",
+    "salario": 6993.69
+  },
+  {
+    "nome": "Carlos Almeida",
+    "idade": 53,
+    "sexo": "Masculino",
+    "empregado": true,
+    "area_atuacao": "Engenharia",
+    "salario": 5376.51
+  },
+  {
+    "nome": "Isabel Silva",
+    "idade": 18,
+    "sexo": "Feminino",
+    "empregado": true,
+    "area_atuacao": "Marketing",
+    "salario": 5449.05
+  },
+  {
+    "nome": "Isabel Silva",
+    "idade": 22,
+    "sexo": "Masculino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Ana Lima",
+    "idade": 29,
+    "sexo": "Feminino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Jo\u00e3o Souza",
+    "idade": 20,
+    "sexo": "Masculino",
+    "empregado": true,
+    "area_atuacao": "Marketing",
+    "salario": 8879.86
+  },
+  {
+    "nome": "Rafael Almeida",
+    "idade": 23,
+    "sexo": "Masculino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Carlos Oliveira",
+    "idade": 47,
+    "sexo": "Feminino",
+    "empregado": true,
+    "area_atuacao": "Marketing",
+    "salario": 4065.77
+  },
+  {
+    "nome": "Jo\u00e3o Almeida",
+    "idade": 30,
+    "sexo": "Masculino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Jo\u00e3o Lima",
+    "idade": 44,
+    "sexo": "Feminino",
+    "empregado": true,
+    "area_atuacao": "Engenharia",
+    "salario": 6609.25
+  },
+  {
+    "nome": "Mariana Ribeiro",
+    "idade": 28,
+    "sexo": "Feminino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Jo\u00e3o Martins",
+    "idade": 56,
+    "sexo": "Feminino",
+    "empregado": true,
+    "area_atuacao": "Marketing",
+    "salario": 7693.97
+  },
+  {
+    "nome": "Gabriela Lima",
+    "idade": 54,
+    "sexo": "Masculino",
+    "empregado": true,
+    "area_atuacao": "Financas",
+    "salario": 3962.78
+  },
+  {
+    "nome": "Carlos Almeida",
+    "idade": 49,
+    "sexo": "Feminino",
+    "empregado": true,
+    "area_atuacao": "Saude",
+    "salario": 6974.3
+  },
+  {
+    "nome": "Ana Ribeiro",
+    "idade": 32,
+    "sexo": "Masculino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Rafael Silva",
+    "idade": 59,
+    "sexo": "Feminino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Pedro Silva",
+    "idade": 27,
+    "sexo": "Masculino",
+    "empregado": true,
+    "area_atuacao": "TI",
+    "salario": 9605.56
+  },
+  {
+    "nome": "Carlos Martins",
+    "idade": 30,
+    "sexo": "Masculino",
+    "empregado": true,
+    "area_atuacao": "Financas",
+    "salario": 5600.46
+  },
+  {
+    "nome": "Pedro Martins",
+    "idade": 53,
+    "sexo": "Feminino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Gabriela Ribeiro",
+    "idade": 30,
+    "sexo": "Masculino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Gabriela Costa",
+    "idade": 23,
+    "sexo": "Feminino",
+    "empregado": true,
+    "area_atuacao": "Engenharia",
+    "salario": 4277.2
+  },
+  {
+    "nome": "Rafael Santos",
+    "idade": 31,
+    "sexo": "Feminino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Gabriela Martins",
+    "idade": 55,
+    "sexo": "Masculino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Camila Almeida",
+    "idade": 30,
+    "sexo": "Masculino",
+    "empregado": true,
+    "area_atuacao": "Saude",
+    "salario": 9807.2
+  },
+  {
+    "nome": "Carlos Souza",
+    "idade": 45,
+    "sexo": "Feminino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Ana Souza",
+    "idade": 26,
+    "sexo": "Feminino",
+    "empregado": true,
+    "area_atuacao": "Saude",
+    "salario": 8843.79
+  },
+  {
+    "nome": "Pedro Souza",
+    "idade": 41,
+    "sexo": "Masculino",
+    "empregado": true,
+    "area_atuacao": "Engenharia",
+    "salario": 3957.48
+  },
+  {
+    "nome": "Ana Ribeiro",
+    "idade": 47,
+    "sexo": "Feminino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Isabel Costa",
+    "idade": 26,
+    "sexo": "Feminino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Pedro Pereira",
+    "idade": 24,
+    "sexo": "Feminino",
+    "empregado": true,
+    "area_atuacao": "TI",
+    "salario": 7730.95
+  },
+  {
+    "nome": "Pedro Costa",
+    "idade": 24,
+    "sexo": "Masculino",
+    "empregado": true,
+    "area_atuacao": "TI",
+    "salario": 5426.32
+  },
+  {
+    "nome": "Lucas Ribeiro",
+    "idade": 35,
+    "sexo": "Masculino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Gabriela Almeida",
+    "idade": 39,
+    "sexo": "Feminino",
+    "empregado": true,
+    "area_atuacao": "Saude",
+    "salario": 8251.91
+  },
+  {
+    "nome": "Lucas Santos",
+    "idade": 18,
+    "sexo": "Feminino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Isabel Almeida",
+    "idade": 33,
+    "sexo": "Feminino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Rafael Santos",
+    "idade": 55,
+    "sexo": "Masculino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Pedro Silva",
+    "idade": 24,
+    "sexo": "Masculino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Jo\u00e3o Santos",
+    "idade": 31,
+    "sexo": "Feminino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Jo\u00e3o Almeida",
+    "idade": 29,
+    "sexo": "Masculino",
+    "empregado": true,
+    "area_atuacao": "Financas",
+    "salario": 4695.71
+  },
+  {
+    "nome": "Camila Costa",
+    "idade": 49,
+    "sexo": "Feminino",
+    "empregado": true,
+    "area_atuacao": "Educacao",
+    "salario": 8874.05
+  },
+  {
+    "nome": "Isabel Almeida",
+    "idade": 26,
+    "sexo": "Feminino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Rafael Lima",
+    "idade": 56,
+    "sexo": "Feminino",
+    "empregado": true,
+    "area_atuacao": "Administracao",
+    "salario": 7586.12
+  },
+  {
+    "nome": "Rafael Ribeiro",
+    "idade": 58,
+    "sexo": "Masculino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Isabel Souza",
+    "idade": 42,
+    "sexo": "Feminino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Pedro Souza",
+    "idade": 35,
+    "sexo": "Masculino",
+    "empregado": true,
+    "area_atuacao": "TI",
+    "salario": 6189.41
+  },
+  {
+    "nome": "Carlos Oliveira",
+    "idade": 41,
+    "sexo": "Masculino",
+    "empregado": true,
+    "area_atuacao": "Educacao",
+    "salario": 7589.19
+  },
+  {
+    "nome": "Gabriela Pereira",
+    "idade": 39,
+    "sexo": "Feminino",
+    "empregado": true,
+    "area_atuacao": "Financas",
+    "salario": 8062.04
+  },
+  {
+    "nome": "Mariana Costa",
+    "idade": 38,
+    "sexo": "Feminino",
+    "empregado": true,
+    "area_atuacao": "Saude",
+    "salario": 7098.13
+  },
+  {
+    "nome": "Jo\u00e3o Lima",
+    "idade": 33,
+    "sexo": "Masculino",
+    "empregado": true,
+    "area_atuacao": "Educacao",
+    "salario": 3380.42
+  },
+  {
+    "nome": "Rafael Santos",
+    "idade": 29,
+    "sexo": "Masculino",
+    "empregado": true,
+    "area_atuacao": "Marketing",
+    "salario": 9194.5
+  },
+  {
+    "nome": "Ana Pereira",
+    "idade": 27,
+    "sexo": "Masculino",
+    "empregado": true,
+    "area_atuacao": "Educacao",
+    "salario": 9825.99
+  },
+  {
+    "nome": "Lucas Almeida",
+    "idade": 34,
+    "sexo": "Feminino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Lucas Martins",
+    "idade": 21,
+    "sexo": "Masculino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Pedro Santos",
+    "idade": 29,
+    "sexo": "Masculino",
+    "empregado": true,
+    "area_atuacao": "Administracao",
+    "salario": 7144.63
+  },
+  {
+    "nome": "Jo\u00e3o Silva",
+    "idade": 54,
+    "sexo": "Feminino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Rafael Oliveira",
+    "idade": 44,
+    "sexo": "Masculino",
+    "empregado": true,
+    "area_atuacao": "Saude",
+    "salario": 5404.4
+  },
+  {
+    "nome": "Pedro Oliveira",
+    "idade": 38,
+    "sexo": "Masculino",
+    "empregado": true,
+    "area_atuacao": "Administracao",
+    "salario": 4857.68
+  },
+  {
+    "nome": "Jo\u00e3o Lima",
+    "idade": 26,
+    "sexo": "Feminino",
+    "empregado": true,
+    "area_atuacao": "TI",
+    "salario": 4275.18
+  },
+  {
+    "nome": "Pedro Ribeiro",
+    "idade": 32,
+    "sexo": "Feminino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Pedro Ribeiro",
+    "idade": 58,
+    "sexo": "Feminino",
+    "empregado": true,
+    "area_atuacao": "TI",
+    "salario": 7042.79
+  },
+  {
+    "nome": "Rafael Ribeiro",
+    "idade": 19,
+    "sexo": "Feminino",
+    "empregado": true,
+    "area_atuacao": "TI",
+    "salario": 3311.54
+  },
+  {
+    "nome": "Jo\u00e3o Ribeiro",
+    "idade": 28,
+    "sexo": "Masculino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Camila Costa",
+    "idade": 40,
+    "sexo": "Masculino",
+    "empregado": true,
+    "area_atuacao": "TI",
+    "salario": 8123.87
+  },
+  {
+    "nome": "Rafael Santos",
+    "idade": 34,
+    "sexo": "Masculino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Carlos Pereira",
+    "idade": 36,
+    "sexo": "Masculino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Jo\u00e3o Santos",
+    "idade": 56,
+    "sexo": "Feminino",
+    "empregado": true,
+    "area_atuacao": "Educacao",
+    "salario": 4093.89
+  },
+  {
+    "nome": "Lucas Costa",
+    "idade": 50,
+    "sexo": "Masculino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Mariana Santos",
+    "idade": 48,
+    "sexo": "Masculino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Mariana Oliveira",
+    "idade": 29,
+    "sexo": "Masculino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Jo\u00e3o Lima",
+    "idade": 37,
+    "sexo": "Feminino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Carlos Lima",
+    "idade": 48,
+    "sexo": "Feminino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Mariana Oliveira",
+    "idade": 56,
+    "sexo": "Feminino",
+    "empregado": true,
+    "area_atuacao": "Engenharia",
+    "salario": 6590.29
+  },
+  {
+    "nome": "Lucas Oliveira",
+    "idade": 31,
+    "sexo": "Masculino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Ana Ribeiro",
+    "idade": 20,
+    "sexo": "Feminino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Camila Ribeiro",
+    "idade": 26,
+    "sexo": "Feminino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Pedro Oliveira",
+    "idade": 29,
+    "sexo": "Feminino",
+    "empregado": true,
+    "area_atuacao": "Marketing",
+    "salario": 3421.3
+  },
+  {
+    "nome": "Rafael Souza",
+    "idade": 36,
+    "sexo": "Feminino",
+    "empregado": true,
+    "area_atuacao": "Engenharia",
+    "salario": 8605.79
+  },
+  {
+    "nome": "Gabriela Costa",
+    "idade": 22,
+    "sexo": "Masculino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Isabel Lima",
+    "idade": 51,
+    "sexo": "Feminino",
+    "empregado": true,
+    "area_atuacao": "Educacao",
+    "salario": 3913.25
+  },
+  {
+    "nome": "Mariana Oliveira",
+    "idade": 35,
+    "sexo": "Feminino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Camila Martins",
+    "idade": 31,
+    "sexo": "Masculino",
+    "empregado": true,
+    "area_atuacao": "Administracao",
+    "salario": 6806.18
+  },
+  {
+    "nome": "Lucas Almeida",
+    "idade": 53,
+    "sexo": "Feminino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Camila Pereira",
+    "idade": 57,
+    "sexo": "Feminino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Carlos Pereira",
+    "idade": 57,
+    "sexo": "Feminino",
+    "empregado": true,
+    "area_atuacao": "Educacao",
+    "salario": 6729.44
+  },
+  {
+    "nome": "Isabel Souza",
+    "idade": 29,
+    "sexo": "Masculino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Pedro Santos",
+    "idade": 28,
+    "sexo": "Feminino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Jo\u00e3o Silva",
+    "idade": 33,
+    "sexo": "Feminino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Ana Pereira",
+    "idade": 54,
+    "sexo": "Feminino",
+    "empregado": true,
+    "area_atuacao": "Saude",
+    "salario": 6885.0
+  },
+  {
+    "nome": "Gabriela Silva",
+    "idade": 48,
+    "sexo": "Masculino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Ana Almeida",
+    "idade": 43,
+    "sexo": "Feminino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Camila Souza",
+    "idade": 57,
+    "sexo": "Feminino",
+    "empregado": true,
+    "area_atuacao": "Marketing",
+    "salario": 9227.96
+  },
+  {
+    "nome": "Gabriela Oliveira",
+    "idade": 40,
+    "sexo": "Masculino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Gabriela Ribeiro",
+    "idade": 54,
+    "sexo": "Feminino",
+    "empregado": true,
+    "area_atuacao": "Engenharia",
+    "salario": 3139.81
+  },
+  {
+    "nome": "Isabel Almeida",
+    "idade": 46,
+    "sexo": "Feminino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Gabriela Ribeiro",
+    "idade": 43,
+    "sexo": "Masculino",
+    "empregado": true,
+    "area_atuacao": "Financas",
+    "salario": 4220.61
+  },
+  {
+    "nome": "Pedro Martins",
+    "idade": 53,
+    "sexo": "Masculino",
+    "empregado": true,
+    "area_atuacao": "Engenharia",
+    "salario": 4852.48
+  },
+  {
+    "nome": "Mariana Oliveira",
+    "idade": 21,
+    "sexo": "Feminino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Carlos Almeida",
+    "idade": 30,
+    "sexo": "Masculino",
+    "empregado": true,
+    "area_atuacao": "TI",
+    "salario": 4865.43
+  },
+  {
+    "nome": "Mariana Lima",
+    "idade": 33,
+    "sexo": "Feminino",
+    "empregado": true,
+    "area_atuacao": "Engenharia",
+    "salario": 7222.9
+  },
+  {
+    "nome": "Isabel Pereira",
+    "idade": 53,
+    "sexo": "Masculino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Jo\u00e3o Santos",
+    "idade": 27,
+    "sexo": "Masculino",
+    "empregado": true,
+    "area_atuacao": "TI",
+    "salario": 7649.34
+  },
+  {
+    "nome": "Rafael Almeida",
+    "idade": 48,
+    "sexo": "Masculino",
+    "empregado": true,
+    "area_atuacao": "Marketing",
+    "salario": 6938.99
+  },
+  {
+    "nome": "Ana Oliveira",
+    "idade": 46,
+    "sexo": "Feminino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Lucas Ribeiro",
+    "idade": 32,
+    "sexo": "Masculino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Mariana Oliveira",
+    "idade": 20,
+    "sexo": "Masculino",
+    "empregado": true,
+    "area_atuacao": "Financas",
+    "salario": 8280.95
+  },
+  {
+    "nome": "Lucas Martins",
+    "idade": 58,
+    "sexo": "Masculino",
+    "empregado": true,
+    "area_atuacao": "Saude",
+    "salario": 5346.18
+  },
+  {
+    "nome": "Rafael Souza",
+    "idade": 25,
+    "sexo": "Masculino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Rafael Almeida",
+    "idade": 23,
+    "sexo": "Masculino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Mariana Souza",
+    "idade": 44,
+    "sexo": "Masculino",
+    "empregado": true,
+    "area_atuacao": "Administracao",
+    "salario": 7435.58
+  },
+  {
+    "nome": "Camila Ribeiro",
+    "idade": 48,
+    "sexo": "Masculino",
+    "empregado": true,
+    "area_atuacao": "Financas",
+    "salario": 3415.04
+  },
+  {
+    "nome": "Camila Costa",
+    "idade": 35,
+    "sexo": "Masculino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Mariana Pereira",
+    "idade": 43,
+    "sexo": "Masculino",
+    "empregado": true,
+    "area_atuacao": "Engenharia",
+    "salario": 5610.67
+  },
+  {
+    "nome": "Ana Almeida",
+    "idade": 20,
+    "sexo": "Feminino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Jo\u00e3o Ribeiro",
+    "idade": 50,
+    "sexo": "Masculino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Camila Almeida",
+    "idade": 19,
+    "sexo": "Feminino",
+    "empregado": true,
+    "area_atuacao": "Educacao",
+    "salario": 3511.2
+  },
+  {
+    "nome": "Camila Martins",
+    "idade": 53,
+    "sexo": "Masculino",
+    "empregado": true,
+    "area_atuacao": "Educacao",
+    "salario": 9202.8
+  },
+  {
+    "nome": "Lucas Souza",
+    "idade": 57,
+    "sexo": "Feminino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Gabriela Oliveira",
+    "idade": 55,
+    "sexo": "Feminino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Pedro Lima",
+    "idade": 57,
+    "sexo": "Masculino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Camila Costa",
+    "idade": 35,
+    "sexo": "Feminino",
+    "empregado": true,
+    "area_atuacao": "Administracao",
+    "salario": 4953.43
+  },
+  {
+    "nome": "Lucas Costa",
+    "idade": 34,
+    "sexo": "Masculino",
+    "empregado": true,
+    "area_atuacao": "TI",
+    "salario": 3464.2
+  },
+  {
+    "nome": "Lucas Souza",
+    "idade": 59,
+    "sexo": "Feminino",
+    "empregado": true,
+    "area_atuacao": "Administracao",
+    "salario": 6737.38
+  },
+  {
+    "nome": "Mariana Santos",
+    "idade": 59,
+    "sexo": "Feminino",
+    "empregado": true,
+    "area_atuacao": "Engenharia",
+    "salario": 7573.74
+  },
+  {
+    "nome": "Lucas Silva",
+    "idade": 31,
+    "sexo": "Feminino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Jo\u00e3o Lima",
+    "idade": 51,
+    "sexo": "Masculino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Rafael Silva",
+    "idade": 42,
+    "sexo": "Feminino",
+    "empregado": true,
+    "area_atuacao": "Marketing",
+    "salario": 3344.12
+  },
+  {
+    "nome": "Carlos Costa",
+    "idade": 51,
+    "sexo": "Masculino",
+    "empregado": true,
+    "area_atuacao": "Administracao",
+    "salario": 8237.23
+  },
+  {
+    "nome": "Ana Martins",
+    "idade": 51,
+    "sexo": "Masculino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Pedro Souza",
+    "idade": 40,
+    "sexo": "Feminino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Mariana Silva",
+    "idade": 42,
+    "sexo": "Feminino",
+    "empregado": true,
+    "area_atuacao": "Marketing",
+    "salario": 4264.25
+  },
+  {
+    "nome": "Gabriela Lima",
+    "idade": 23,
+    "sexo": "Masculino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Rafael Oliveira",
+    "idade": 52,
+    "sexo": "Feminino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Mariana Ribeiro",
+    "idade": 24,
+    "sexo": "Masculino",
+    "empregado": true,
+    "area_atuacao": "Financas",
+    "salario": 9696.36
+  },
+  {
+    "nome": "Mariana Santos",
+    "idade": 43,
+    "sexo": "Masculino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Isabel Almeida",
+    "idade": 38,
+    "sexo": "Feminino",
+    "empregado": true,
+    "area_atuacao": "Marketing",
+    "salario": 5250.51
+  },
+  {
+    "nome": "Carlos Lima",
+    "idade": 19,
+    "sexo": "Masculino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Camila Silva",
+    "idade": 47,
+    "sexo": "Feminino",
+    "empregado": true,
+    "area_atuacao": "Marketing",
+    "salario": 7626.79
+  },
+  {
+    "nome": "Rafael Pereira",
+    "idade": 51,
+    "sexo": "Masculino",
+    "empregado": true,
+    "area_atuacao": "Financas",
+    "salario": 9862.6
+  },
+  {
+    "nome": "Ana Oliveira",
+    "idade": 25,
+    "sexo": "Masculino",
+    "empregado": true,
+    "area_atuacao": "Administracao",
+    "salario": 5843.5
+  },
+  {
+    "nome": "Ana Costa",
+    "idade": 49,
+    "sexo": "Masculino",
+    "empregado": true,
+    "area_atuacao": "Marketing",
+    "salario": 7701.82
+  },
+  {
+    "nome": "Jo\u00e3o Ribeiro",
+    "idade": 26,
+    "sexo": "Masculino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Mariana Martins",
+    "idade": 43,
+    "sexo": "Feminino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Jo\u00e3o Lima",
+    "idade": 33,
+    "sexo": "Feminino",
+    "empregado": true,
+    "area_atuacao": "Administracao",
+    "salario": 7557.39
+  },
+  {
+    "nome": "Pedro Silva",
+    "idade": 39,
+    "sexo": "Feminino",
+    "empregado": true,
+    "area_atuacao": "Financas",
+    "salario": 7966.82
+  },
+  {
+    "nome": "Pedro Santos",
+    "idade": 53,
+    "sexo": "Masculino",
+    "empregado": true,
+    "area_atuacao": "Marketing",
+    "salario": 4094.34
+  },
+  {
+    "nome": "Mariana Oliveira",
+    "idade": 38,
+    "sexo": "Masculino",
+    "empregado": true,
+    "area_atuacao": "Administracao",
+    "salario": 4842.86
+  },
+  {
+    "nome": "Mariana Santos",
+    "idade": 59,
+    "sexo": "Masculino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Jo\u00e3o Silva",
+    "idade": 49,
+    "sexo": "Feminino",
+    "empregado": true,
+    "area_atuacao": "Educacao",
+    "salario": 7349.76
+  },
+  {
+    "nome": "Pedro Almeida",
+    "idade": 42,
+    "sexo": "Masculino",
+    "empregado": true,
+    "area_atuacao": "Saude",
+    "salario": 7542.06
+  },
+  {
+    "nome": "Gabriela Costa",
+    "idade": 25,
+    "sexo": "Feminino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Ana Ribeiro",
+    "idade": 54,
+    "sexo": "Masculino",
+    "empregado": true,
+    "area_atuacao": "Marketing",
+    "salario": 7167.11
+  },
+  {
+    "nome": "Gabriela Lima",
+    "idade": 34,
+    "sexo": "Feminino",
+    "empregado": true,
+    "area_atuacao": "TI",
+    "salario": 7900.78
+  },
+  {
+    "nome": "Jo\u00e3o Silva",
+    "idade": 53,
+    "sexo": "Masculino",
+    "empregado": true,
+    "area_atuacao": "Saude",
+    "salario": 4430.97
+  },
+  {
+    "nome": "Rafael Santos",
+    "idade": 51,
+    "sexo": "Masculino",
+    "empregado": true,
+    "area_atuacao": "Educacao",
+    "salario": 8518.88
+  },
+  {
+    "nome": "Isabel Oliveira",
+    "idade": 19,
+    "sexo": "Feminino",
+    "empregado": true,
+    "area_atuacao": "Educacao",
+    "salario": 3303.45
+  },
+  {
+    "nome": "Rafael Silva",
+    "idade": 21,
+    "sexo": "Masculino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Lucas Martins",
+    "idade": 25,
+    "sexo": "Feminino",
+    "empregado": true,
+    "area_atuacao": "Educacao",
+    "salario": 5185.56
+  },
+  {
+    "nome": "Gabriela Santos",
+    "idade": 27,
+    "sexo": "Feminino",
+    "empregado": true,
+    "area_atuacao": "Financas",
+    "salario": 3111.76
+  },
+  {
+    "nome": "Carlos Ribeiro",
+    "idade": 27,
+    "sexo": "Feminino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Carlos Lima",
+    "idade": 29,
+    "sexo": "Masculino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Mariana Ribeiro",
+    "idade": 27,
+    "sexo": "Feminino",
+    "empregado": true,
+    "area_atuacao": "TI",
+    "salario": 5763.2
+  },
+  {
+    "nome": "Carlos Almeida",
+    "idade": 18,
+    "sexo": "Masculino",
+    "empregado": true,
+    "area_atuacao": "Saude",
+    "salario": 8698.62
+  },
+  {
+    "nome": "Carlos Martins",
+    "idade": 28,
+    "sexo": "Feminino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Carlos Santos",
+    "idade": 24,
+    "sexo": "Feminino",
+    "empregado": true,
+    "area_atuacao": "TI",
+    "salario": 8565.62
+  },
+  {
+    "nome": "Camila Pereira",
+    "idade": 44,
+    "sexo": "Feminino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Lucas Lima",
+    "idade": 54,
+    "sexo": "Feminino",
+    "empregado": true,
+    "area_atuacao": "TI",
+    "salario": 5219.44
+  },
+  {
+    "nome": "Camila Souza",
+    "idade": 54,
+    "sexo": "Feminino",
+    "empregado": true,
+    "area_atuacao": "Financas",
+    "salario": 9862.52
+  },
+  {
+    "nome": "Rafael Silva",
+    "idade": 46,
+    "sexo": "Feminino",
+    "empregado": true,
+    "area_atuacao": "TI",
+    "salario": 5411.48
+  },
+  {
+    "nome": "Camila Santos",
+    "idade": 25,
+    "sexo": "Feminino",
+    "empregado": true,
+    "area_atuacao": "Saude",
+    "salario": 3252.76
+  },
+  {
+    "nome": "Jo\u00e3o Ribeiro",
+    "idade": 18,
+    "sexo": "Feminino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Jo\u00e3o Ribeiro",
+    "idade": 49,
+    "sexo": "Masculino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Carlos Almeida",
+    "idade": 37,
+    "sexo": "Masculino",
+    "empregado": true,
+    "area_atuacao": "Saude",
+    "salario": 3328.11
+  },
+  {
+    "nome": "Gabriela Ribeiro",
+    "idade": 35,
+    "sexo": "Masculino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Rafael Santos",
+    "idade": 36,
+    "sexo": "Feminino",
+    "empregado": true,
+    "area_atuacao": "Financas",
+    "salario": 7296.22
+  },
+  {
+    "nome": "Ana Silva",
+    "idade": 44,
+    "sexo": "Feminino",
+    "empregado": true,
+    "area_atuacao": "Marketing",
+    "salario": 4170.94
+  },
+  {
+    "nome": "Camila Pereira",
+    "idade": 36,
+    "sexo": "Masculino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Carlos Lima",
+    "idade": 27,
+    "sexo": "Masculino",
+    "empregado": true,
+    "area_atuacao": "Financas",
+    "salario": 4715.85
+  },
+  {
+    "nome": "Camila Pereira",
+    "idade": 51,
+    "sexo": "Masculino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Camila Pereira",
+    "idade": 39,
+    "sexo": "Masculino",
+    "empregado": true,
+    "area_atuacao": "Saude",
+    "salario": 4830.39
+  },
+  {
+    "nome": "Camila Souza",
+    "idade": 48,
+    "sexo": "Masculino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Jo\u00e3o Silva",
+    "idade": 28,
+    "sexo": "Feminino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Lucas Pereira",
+    "idade": 27,
+    "sexo": "Masculino",
+    "empregado": true,
+    "area_atuacao": "Educacao",
+    "salario": 5843.41
+  },
+  {
+    "nome": "Jo\u00e3o Ribeiro",
+    "idade": 40,
+    "sexo": "Feminino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Lucas Ribeiro",
+    "idade": 25,
+    "sexo": "Masculino",
+    "empregado": true,
+    "area_atuacao": "TI",
+    "salario": 7441.08
+  },
+  {
+    "nome": "Rafael Santos",
+    "idade": 35,
+    "sexo": "Feminino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Camila Silva",
+    "idade": 37,
+    "sexo": "Masculino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Lucas Martins",
+    "idade": 20,
+    "sexo": "Feminino",
+    "empregado": true,
+    "area_atuacao": "Financas",
+    "salario": 8112.42
+  },
+  {
+    "nome": "Jo\u00e3o Silva",
+    "idade": 24,
+    "sexo": "Masculino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Mariana Lima",
+    "idade": 49,
+    "sexo": "Feminino",
+    "empregado": true,
+    "area_atuacao": "TI",
+    "salario": 8726.29
+  },
+  {
+    "nome": "Rafael Martins",
+    "idade": 55,
+    "sexo": "Masculino",
+    "empregado": true,
+    "area_atuacao": "Engenharia",
+    "salario": 3893.1
+  },
+  {
+    "nome": "Carlos Silva",
+    "idade": 29,
+    "sexo": "Masculino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Isabel Costa",
+    "idade": 32,
+    "sexo": "Masculino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Gabriela Costa",
+    "idade": 32,
+    "sexo": "Feminino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Lucas Santos",
+    "idade": 55,
+    "sexo": "Feminino",
+    "empregado": true,
+    "area_atuacao": "Saude",
+    "salario": 5355.64
+  },
+  {
+    "nome": "Gabriela Almeida",
+    "idade": 49,
+    "sexo": "Masculino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Carlos Ribeiro",
+    "idade": 45,
+    "sexo": "Feminino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Jo\u00e3o Santos",
+    "idade": 57,
+    "sexo": "Feminino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Jo\u00e3o Souza",
+    "idade": 58,
+    "sexo": "Masculino",
+    "empregado": true,
+    "area_atuacao": "Marketing",
+    "salario": 9449.55
+  },
+  {
+    "nome": "Rafael Silva",
+    "idade": 26,
+    "sexo": "Masculino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Rafael Lima",
+    "idade": 32,
+    "sexo": "Feminino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Carlos Pereira",
+    "idade": 27,
+    "sexo": "Feminino",
+    "empregado": true,
+    "area_atuacao": "Marketing",
+    "salario": 7921.11
+  },
+  {
+    "nome": "Isabel Almeida",
+    "idade": 34,
+    "sexo": "Feminino",
+    "empregado": true,
+    "area_atuacao": "Marketing",
+    "salario": 3401.2
+  },
+  {
+    "nome": "Gabriela Ribeiro",
+    "idade": 44,
+    "sexo": "Masculino",
+    "empregado": true,
+    "area_atuacao": "TI",
+    "salario": 9443.85
+  },
+  {
+    "nome": "Gabriela Ribeiro",
+    "idade": 43,
+    "sexo": "Feminino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Rafael Pereira",
+    "idade": 38,
+    "sexo": "Feminino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Rafael Martins",
+    "idade": 46,
+    "sexo": "Feminino",
+    "empregado": true,
+    "area_atuacao": "Engenharia",
+    "salario": 3542.56
+  },
+  {
+    "nome": "Lucas Pereira",
+    "idade": 29,
+    "sexo": "Feminino",
+    "empregado": true,
+    "area_atuacao": "Financas",
+    "salario": 8690.03
+  },
+  {
+    "nome": "Pedro Pereira",
+    "idade": 42,
+    "sexo": "Masculino",
+    "empregado": true,
+    "area_atuacao": "Educacao",
+    "salario": 5667.29
+  },
+  {
+    "nome": "Rafael Martins",
+    "idade": 45,
+    "sexo": "Feminino",
+    "empregado": true,
+    "area_atuacao": "Educacao",
+    "salario": 6208.41
+  },
+  {
+    "nome": "Pedro Lima",
+    "idade": 39,
+    "sexo": "Feminino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Camila Lima",
+    "idade": 29,
+    "sexo": "Feminino",
+    "empregado": true,
+    "area_atuacao": "Saude",
+    "salario": 8507.43
+  },
+  {
+    "nome": "Gabriela Silva",
+    "idade": 44,
+    "sexo": "Feminino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Lucas Santos",
+    "idade": 31,
+    "sexo": "Feminino",
+    "empregado": true,
+    "area_atuacao": "Administracao",
+    "salario": 8212.96
+  },
+  {
+    "nome": "Rafael Souza",
+    "idade": 24,
+    "sexo": "Masculino",
+    "empregado": true,
+    "area_atuacao": "Marketing",
+    "salario": 8524.21
+  },
+  {
+    "nome": "Jo\u00e3o Silva",
+    "idade": 24,
+    "sexo": "Feminino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Jo\u00e3o Martins",
+    "idade": 56,
+    "sexo": "Feminino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Jo\u00e3o Souza",
+    "idade": 35,
+    "sexo": "Feminino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Gabriela Oliveira",
+    "idade": 54,
+    "sexo": "Feminino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Ana Souza",
+    "idade": 25,
+    "sexo": "Masculino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Lucas Almeida",
+    "idade": 55,
+    "sexo": "Masculino",
+    "empregado": true,
+    "area_atuacao": "TI",
+    "salario": 6184.09
+  },
+  {
+    "nome": "Isabel Souza",
+    "idade": 38,
+    "sexo": "Feminino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Lucas Ribeiro",
+    "idade": 29,
+    "sexo": "Feminino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Camila Silva",
+    "idade": 20,
+    "sexo": "Masculino",
+    "empregado": true,
+    "area_atuacao": "Saude",
+    "salario": 7041.55
+  },
+  {
+    "nome": "Gabriela Ribeiro",
+    "idade": 36,
+    "sexo": "Masculino",
+    "empregado": true,
+    "area_atuacao": "Administracao",
+    "salario": 3382.11
+  },
+  {
+    "nome": "Isabel Martins",
+    "idade": 19,
+    "sexo": "Feminino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Isabel Pereira",
+    "idade": 49,
+    "sexo": "Masculino",
+    "empregado": true,
+    "area_atuacao": "Engenharia",
+    "salario": 4786.83
+  },
+  {
+    "nome": "Ana Silva",
+    "idade": 60,
+    "sexo": "Masculino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Carlos Martins",
+    "idade": 49,
+    "sexo": "Masculino",
+    "empregado": true,
+    "area_atuacao": "Marketing",
+    "salario": 5484.07
+  },
+  {
+    "nome": "Isabel Costa",
+    "idade": 40,
+    "sexo": "Masculino",
+    "empregado": true,
+    "area_atuacao": "Saude",
+    "salario": 5736.43
+  },
+  {
+    "nome": "Mariana Lima",
+    "idade": 42,
+    "sexo": "Feminino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Lucas Lima",
+    "idade": 52,
+    "sexo": "Feminino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Rafael Martins",
+    "idade": 56,
+    "sexo": "Feminino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Mariana Silva",
+    "idade": 42,
+    "sexo": "Feminino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Carlos Ribeiro",
+    "idade": 57,
+    "sexo": "Masculino",
+    "empregado": true,
+    "area_atuacao": "Educacao",
+    "salario": 6155.03
+  },
+  {
+    "nome": "Gabriela Lima",
+    "idade": 21,
+    "sexo": "Feminino",
+    "empregado": true,
+    "area_atuacao": "Saude",
+    "salario": 6268.98
+  },
+  {
+    "nome": "Carlos Souza",
+    "idade": 42,
+    "sexo": "Masculino",
+    "empregado": true,
+    "area_atuacao": "TI",
+    "salario": 8253.04
+  },
+  {
+    "nome": "Lucas Silva",
+    "idade": 23,
+    "sexo": "Masculino",
+    "empregado": true,
+    "area_atuacao": "Saude",
+    "salario": 4664.66
+  },
+  {
+    "nome": "Isabel Santos",
+    "idade": 55,
+    "sexo": "Feminino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Mariana Pereira",
+    "idade": 33,
+    "sexo": "Feminino",
+    "empregado": true,
+    "area_atuacao": "Engenharia",
+    "salario": 4856.97
+  },
+  {
+    "nome": "Mariana Silva",
+    "idade": 58,
+    "sexo": "Feminino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Pedro Costa",
+    "idade": 35,
+    "sexo": "Feminino",
+    "empregado": true,
+    "area_atuacao": "Saude",
+    "salario": 3883.41
+  },
+  {
+    "nome": "Mariana Costa",
+    "idade": 34,
+    "sexo": "Masculino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Camila Souza",
+    "idade": 52,
+    "sexo": "Masculino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Lucas Souza",
+    "idade": 56,
+    "sexo": "Masculino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Carlos Lima",
+    "idade": 32,
+    "sexo": "Masculino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Carlos Pereira",
+    "idade": 51,
+    "sexo": "Masculino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Camila Ribeiro",
+    "idade": 42,
+    "sexo": "Masculino",
+    "empregado": true,
+    "area_atuacao": "Educacao",
+    "salario": 8309.0
+  },
+  {
+    "nome": "Camila Silva",
+    "idade": 59,
+    "sexo": "Masculino",
+    "empregado": true,
+    "area_atuacao": "Engenharia",
+    "salario": 6817.16
+  },
+  {
+    "nome": "Camila Oliveira",
+    "idade": 46,
+    "sexo": "Feminino",
+    "empregado": true,
+    "area_atuacao": "TI",
+    "salario": 9367.52
+  },
+  {
+    "nome": "Camila Lima",
+    "idade": 50,
+    "sexo": "Masculino",
+    "empregado": true,
+    "area_atuacao": "Educacao",
+    "salario": 3869.02
+  },
+  {
+    "nome": "Jo\u00e3o Silva",
+    "idade": 58,
+    "sexo": "Masculino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Lucas Lima",
+    "idade": 26,
+    "sexo": "Feminino",
+    "empregado": true,
+    "area_atuacao": "Financas",
+    "salario": 3336.27
+  },
+  {
+    "nome": "Jo\u00e3o Oliveira",
+    "idade": 31,
+    "sexo": "Feminino",
+    "empregado": true,
+    "area_atuacao": "Engenharia",
+    "salario": 5001.07
+  },
+  {
+    "nome": "Carlos Lima",
+    "idade": 19,
+    "sexo": "Masculino",
+    "empregado": true,
+    "area_atuacao": "Engenharia",
+    "salario": 8226.97
+  },
+  {
+    "nome": "Pedro Silva",
+    "idade": 19,
+    "sexo": "Feminino",
+    "empregado": true,
+    "area_atuacao": "TI",
+    "salario": 8317.77
+  },
+  {
+    "nome": "Rafael Souza",
+    "idade": 41,
+    "sexo": "Masculino",
+    "empregado": true,
+    "area_atuacao": "Marketing",
+    "salario": 5835.03
+  },
+  {
+    "nome": "Ana Santos",
+    "idade": 51,
+    "sexo": "Masculino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Camila Ribeiro",
+    "idade": 27,
+    "sexo": "Masculino",
+    "empregado": true,
+    "area_atuacao": "Engenharia",
+    "salario": 6945.15
+  },
+  {
+    "nome": "Carlos Martins",
+    "idade": 46,
+    "sexo": "Masculino",
+    "empregado": true,
+    "area_atuacao": "Engenharia",
+    "salario": 4399.57
+  },
+  {
+    "nome": "Carlos Costa",
+    "idade": 40,
+    "sexo": "Feminino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Carlos Almeida",
+    "idade": 45,
+    "sexo": "Feminino",
+    "empregado": true,
+    "area_atuacao": "Marketing",
+    "salario": 3234.96
+  },
+  {
+    "nome": "Lucas Oliveira",
+    "idade": 20,
+    "sexo": "Feminino",
+    "empregado": true,
+    "area_atuacao": "TI",
+    "salario": 8959.71
+  },
+  {
+    "nome": "Pedro Silva",
+    "idade": 24,
+    "sexo": "Masculino",
+    "empregado": true,
+    "area_atuacao": "Marketing",
+    "salario": 7390.72
+  },
+  {
+    "nome": "Camila Souza",
+    "idade": 18,
+    "sexo": "Masculino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Carlos Martins",
+    "idade": 27,
+    "sexo": "Masculino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Gabriela Santos",
+    "idade": 22,
+    "sexo": "Masculino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Jo\u00e3o Almeida",
+    "idade": 29,
+    "sexo": "Masculino",
+    "empregado": true,
+    "area_atuacao": "TI",
+    "salario": 8370.87
+  },
+  {
+    "nome": "Rafael Lima",
+    "idade": 29,
+    "sexo": "Masculino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Gabriela Martins",
+    "idade": 37,
+    "sexo": "Masculino",
+    "empregado": true,
+    "area_atuacao": "Marketing",
+    "salario": 6303.96
+  },
+  {
+    "nome": "Ana Martins",
+    "idade": 57,
+    "sexo": "Feminino",
+    "empregado": true,
+    "area_atuacao": "TI",
+    "salario": 3887.49
+  },
+  {
+    "nome": "Camila Lima",
+    "idade": 36,
+    "sexo": "Masculino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Ana Costa",
+    "idade": 19,
+    "sexo": "Feminino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Isabel Oliveira",
+    "idade": 57,
+    "sexo": "Masculino",
+    "empregado": true,
+    "area_atuacao": "Financas",
+    "salario": 8113.02
+  },
+  {
+    "nome": "Rafael Almeida",
+    "idade": 53,
+    "sexo": "Masculino",
+    "empregado": true,
+    "area_atuacao": "Financas",
+    "salario": 6329.17
+  },
+  {
+    "nome": "Gabriela Souza",
+    "idade": 38,
+    "sexo": "Masculino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Gabriela Costa",
+    "idade": 51,
+    "sexo": "Feminino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Gabriela Lima",
+    "idade": 58,
+    "sexo": "Masculino",
+    "empregado": true,
+    "area_atuacao": "Saude",
+    "salario": 8158.16
+  },
+  {
+    "nome": "Rafael Santos",
+    "idade": 48,
+    "sexo": "Feminino",
+    "empregado": true,
+    "area_atuacao": "Financas",
+    "salario": 8596.13
+  },
+  {
+    "nome": "Camila Lima",
+    "idade": 59,
+    "sexo": "Feminino",
+    "empregado": true,
+    "area_atuacao": "Financas",
+    "salario": 6594.35
+  },
+  {
+    "nome": "Jo\u00e3o Oliveira",
+    "idade": 29,
+    "sexo": "Feminino",
+    "empregado": true,
+    "area_atuacao": "Financas",
+    "salario": 9718.01
+  },
+  {
+    "nome": "Camila Almeida",
+    "idade": 22,
+    "sexo": "Feminino",
+    "empregado": true,
+    "area_atuacao": "Marketing",
+    "salario": 8936.37
+  },
+  {
+    "nome": "Mariana Almeida",
+    "idade": 59,
+    "sexo": "Masculino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Mariana Pereira",
+    "idade": 60,
+    "sexo": "Feminino",
+    "empregado": true,
+    "area_atuacao": "Saude",
+    "salario": 9276.52
+  },
+  {
+    "nome": "Ana Oliveira",
+    "idade": 20,
+    "sexo": "Masculino",
+    "empregado": true,
+    "area_atuacao": "Financas",
+    "salario": 5315.2
+  },
+  {
+    "nome": "Isabel Oliveira",
+    "idade": 29,
+    "sexo": "Feminino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Gabriela Almeida",
+    "idade": 58,
+    "sexo": "Masculino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Rafael Santos",
+    "idade": 38,
+    "sexo": "Feminino",
+    "empregado": true,
+    "area_atuacao": "Engenharia",
+    "salario": 3323.71
+  },
+  {
+    "nome": "Camila Ribeiro",
+    "idade": 22,
+    "sexo": "Masculino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Rafael Pereira",
+    "idade": 23,
+    "sexo": "Feminino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Mariana Costa",
+    "idade": 29,
+    "sexo": "Masculino",
+    "empregado": true,
+    "area_atuacao": "TI",
+    "salario": 4798.5
+  },
+  {
+    "nome": "Lucas Souza",
+    "idade": 60,
+    "sexo": "Masculino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Carlos Almeida",
+    "idade": 57,
+    "sexo": "Feminino",
+    "empregado": true,
+    "area_atuacao": "Engenharia",
+    "salario": 6843.59
+  },
+  {
+    "nome": "Carlos Silva",
+    "idade": 24,
+    "sexo": "Masculino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Camila Oliveira",
+    "idade": 32,
+    "sexo": "Masculino",
+    "empregado": true,
+    "area_atuacao": "Saude",
+    "salario": 6919.16
+  },
+  {
+    "nome": "Pedro Almeida",
+    "idade": 18,
+    "sexo": "Feminino",
+    "empregado": true,
+    "area_atuacao": "Engenharia",
+    "salario": 3391.52
+  },
+  {
+    "nome": "Mariana Costa",
+    "idade": 36,
+    "sexo": "Feminino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Pedro Oliveira",
+    "idade": 38,
+    "sexo": "Masculino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Jo\u00e3o Lima",
+    "idade": 24,
+    "sexo": "Masculino",
+    "empregado": true,
+    "area_atuacao": "Administracao",
+    "salario": 5400.99
+  },
+  {
+    "nome": "Lucas Santos",
+    "idade": 50,
+    "sexo": "Masculino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Rafael Martins",
+    "idade": 46,
+    "sexo": "Feminino",
+    "empregado": true,
+    "area_atuacao": "Saude",
+    "salario": 9390.95
+  },
+  {
+    "nome": "Mariana Pereira",
+    "idade": 44,
+    "sexo": "Masculino",
+    "empregado": true,
+    "area_atuacao": "Financas",
+    "salario": 7799.09
+  },
+  {
+    "nome": "Lucas Lima",
+    "idade": 57,
+    "sexo": "Masculino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Rafael Pereira",
+    "idade": 55,
+    "sexo": "Feminino",
+    "empregado": true,
+    "area_atuacao": "TI",
+    "salario": 4996.79
+  },
+  {
+    "nome": "Jo\u00e3o Ribeiro",
+    "idade": 26,
+    "sexo": "Feminino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Rafael Pereira",
+    "idade": 44,
+    "sexo": "Feminino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Gabriela Santos",
+    "idade": 36,
+    "sexo": "Feminino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Jo\u00e3o Martins",
+    "idade": 32,
+    "sexo": "Feminino",
+    "empregado": true,
+    "area_atuacao": "TI",
+    "salario": 7827.52
+  },
+  {
+    "nome": "Gabriela Costa",
+    "idade": 32,
+    "sexo": "Feminino",
+    "empregado": true,
+    "area_atuacao": "Saude",
+    "salario": 4243.1
+  },
+  {
+    "nome": "Ana Silva",
+    "idade": 40,
+    "sexo": "Masculino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Ana Costa",
+    "idade": 56,
+    "sexo": "Feminino",
+    "empregado": true,
+    "area_atuacao": "Administracao",
+    "salario": 3248.16
+  },
+  {
+    "nome": "Gabriela Lima",
+    "idade": 32,
+    "sexo": "Masculino",
+    "empregado": true,
+    "area_atuacao": "Marketing",
+    "salario": 9308.96
+  },
+  {
+    "nome": "Camila Silva",
+    "idade": 51,
+    "sexo": "Feminino",
+    "empregado": true,
+    "area_atuacao": "Financas",
+    "salario": 4544.88
+  },
+  {
+    "nome": "Ana Ribeiro",
+    "idade": 20,
+    "sexo": "Masculino",
+    "empregado": true,
+    "area_atuacao": "Administracao",
+    "salario": 4108.99
+  },
+  {
+    "nome": "Gabriela Lima",
+    "idade": 25,
+    "sexo": "Feminino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Lucas Lima",
+    "idade": 30,
+    "sexo": "Feminino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Lucas Martins",
+    "idade": 31,
+    "sexo": "Masculino",
+    "empregado": true,
+    "area_atuacao": "Saude",
+    "salario": 8882.92
+  },
+  {
+    "nome": "Rafael Silva",
+    "idade": 45,
+    "sexo": "Feminino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Mariana Martins",
+    "idade": 50,
+    "sexo": "Masculino",
+    "empregado": true,
+    "area_atuacao": "Financas",
+    "salario": 7674.62
+  },
+  {
+    "nome": "Isabel Oliveira",
+    "idade": 55,
+    "sexo": "Feminino",
+    "empregado": true,
+    "area_atuacao": "Educacao",
+    "salario": 3617.11
+  },
+  {
+    "nome": "Pedro Santos",
+    "idade": 33,
+    "sexo": "Feminino",
+    "empregado": true,
+    "area_atuacao": "Marketing",
+    "salario": 5956.13
+  },
+  {
+    "nome": "Isabel Martins",
+    "idade": 51,
+    "sexo": "Masculino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Lucas Silva",
+    "idade": 32,
+    "sexo": "Masculino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Mariana Souza",
+    "idade": 26,
+    "sexo": "Feminino",
+    "empregado": true,
+    "area_atuacao": "Educacao",
+    "salario": 6392.32
+  },
+  {
+    "nome": "Ana Lima",
+    "idade": 20,
+    "sexo": "Masculino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Gabriela Lima",
+    "idade": 55,
+    "sexo": "Feminino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Ana Silva",
+    "idade": 52,
+    "sexo": "Feminino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Gabriela Ribeiro",
+    "idade": 52,
+    "sexo": "Masculino",
+    "empregado": true,
+    "area_atuacao": "Educacao",
+    "salario": 3244.65
+  },
+  {
+    "nome": "Mariana Silva",
+    "idade": 47,
+    "sexo": "Masculino",
+    "empregado": true,
+    "area_atuacao": "Educacao",
+    "salario": 5894.76
+  },
+  {
+    "nome": "Mariana Lima",
+    "idade": 31,
+    "sexo": "Feminino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Carlos Ribeiro",
+    "idade": 40,
+    "sexo": "Feminino",
+    "empregado": true,
+    "area_atuacao": "TI",
+    "salario": 7666.62
+  },
+  {
+    "nome": "Camila Souza",
+    "idade": 31,
+    "sexo": "Feminino",
+    "empregado": true,
+    "area_atuacao": "Educacao",
+    "salario": 8753.92
+  },
+  {
+    "nome": "Jo\u00e3o Costa",
+    "idade": 27,
+    "sexo": "Masculino",
+    "empregado": true,
+    "area_atuacao": "TI",
+    "salario": 8499.8
+  },
+  {
+    "nome": "Rafael Santos",
+    "idade": 32,
+    "sexo": "Masculino",
+    "empregado": true,
+    "area_atuacao": "Administracao",
+    "salario": 9606.29
+  },
+  {
+    "nome": "Camila Ribeiro",
+    "idade": 59,
+    "sexo": "Masculino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Carlos Silva",
+    "idade": 49,
+    "sexo": "Masculino",
+    "empregado": true,
+    "area_atuacao": "Marketing",
+    "salario": 9299.9
+  },
+  {
+    "nome": "Rafael Lima",
+    "idade": 52,
+    "sexo": "Masculino",
+    "empregado": true,
+    "area_atuacao": "Engenharia",
+    "salario": 7955.86
+  },
+  {
+    "nome": "Ana Lima",
+    "idade": 18,
+    "sexo": "Masculino",
+    "empregado": true,
+    "area_atuacao": "Financas",
+    "salario": 6330.26
+  },
+  {
+    "nome": "Isabel Ribeiro",
+    "idade": 57,
+    "sexo": "Masculino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Pedro Costa",
+    "idade": 26,
+    "sexo": "Masculino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Camila Costa",
+    "idade": 25,
+    "sexo": "Masculino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Jo\u00e3o Silva",
+    "idade": 24,
+    "sexo": "Masculino",
+    "empregado": true,
+    "area_atuacao": "Financas",
+    "salario": 9778.76
+  },
+  {
+    "nome": "Carlos Costa",
+    "idade": 49,
+    "sexo": "Masculino",
+    "empregado": true,
+    "area_atuacao": "Educacao",
+    "salario": 4459.8
+  },
+  {
+    "nome": "Mariana Silva",
+    "idade": 26,
+    "sexo": "Masculino",
+    "empregado": true,
+    "area_atuacao": "Engenharia",
+    "salario": 4487.27
+  },
+  {
+    "nome": "Ana Souza",
+    "idade": 55,
+    "sexo": "Masculino",
+    "empregado": true,
+    "area_atuacao": "Saude",
+    "salario": 9697.16
+  },
+  {
+    "nome": "Gabriela Almeida",
+    "idade": 46,
+    "sexo": "Feminino",
+    "empregado": true,
+    "area_atuacao": "TI",
+    "salario": 7974.72
+  },
+  {
+    "nome": "Isabel Almeida",
+    "idade": 33,
+    "sexo": "Masculino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Rafael Lima",
+    "idade": 31,
+    "sexo": "Feminino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Lucas Lima",
+    "idade": 38,
+    "sexo": "Feminino",
+    "empregado": true,
+    "area_atuacao": "Saude",
+    "salario": 6059.31
+  },
+  {
+    "nome": "Gabriela Pereira",
+    "idade": 31,
+    "sexo": "Feminino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Rafael Santos",
+    "idade": 31,
+    "sexo": "Masculino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Isabel Pereira",
+    "idade": 48,
+    "sexo": "Feminino",
+    "empregado": true,
+    "area_atuacao": "Engenharia",
+    "salario": 7944.09
+  },
+  {
+    "nome": "Isabel Pereira",
+    "idade": 54,
+    "sexo": "Masculino",
+    "empregado": true,
+    "area_atuacao": "Financas",
+    "salario": 7910.6
+  },
+  {
+    "nome": "Lucas Silva",
+    "idade": 54,
+    "sexo": "Masculino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Rafael Lima",
+    "idade": 30,
+    "sexo": "Feminino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Carlos Costa",
+    "idade": 54,
+    "sexo": "Masculino",
+    "empregado": true,
+    "area_atuacao": "Engenharia",
+    "salario": 6336.94
+  },
+  {
+    "nome": "Jo\u00e3o Oliveira",
+    "idade": 41,
+    "sexo": "Masculino",
+    "empregado": true,
+    "area_atuacao": "TI",
+    "salario": 7823.5
+  },
+  {
+    "nome": "Mariana Santos",
+    "idade": 20,
+    "sexo": "Masculino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Mariana Oliveira",
+    "idade": 51,
+    "sexo": "Masculino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Carlos Souza",
+    "idade": 30,
+    "sexo": "Feminino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Gabriela Ribeiro",
+    "idade": 22,
+    "sexo": "Feminino",
+    "empregado": true,
+    "area_atuacao": "Marketing",
+    "salario": 9712.51
+  },
+  {
+    "nome": "Rafael Ribeiro",
+    "idade": 33,
+    "sexo": "Feminino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Camila Costa",
+    "idade": 47,
+    "sexo": "Masculino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Carlos Pereira",
+    "idade": 21,
+    "sexo": "Feminino",
+    "empregado": true,
+    "area_atuacao": "Marketing",
+    "salario": 8646.99
+  },
+  {
+    "nome": "Gabriela Martins",
+    "idade": 47,
+    "sexo": "Masculino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Camila Almeida",
+    "idade": 35,
+    "sexo": "Feminino",
+    "empregado": true,
+    "area_atuacao": "Educacao",
+    "salario": 6290.05
+  },
+  {
+    "nome": "Camila Martins",
+    "idade": 42,
+    "sexo": "Feminino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Isabel Souza",
+    "idade": 44,
+    "sexo": "Masculino",
+    "empregado": true,
+    "area_atuacao": "Financas",
+    "salario": 5758.21
+  },
+  {
+    "nome": "Lucas Martins",
+    "idade": 41,
+    "sexo": "Feminino",
+    "empregado": true,
+    "area_atuacao": "Marketing",
+    "salario": 9442.38
+  },
+  {
+    "nome": "Lucas Souza",
+    "idade": 50,
+    "sexo": "Feminino",
+    "empregado": true,
+    "area_atuacao": "Marketing",
+    "salario": 7818.11
+  },
+  {
+    "nome": "Camila Costa",
+    "idade": 48,
+    "sexo": "Masculino",
+    "empregado": true,
+    "area_atuacao": "Educacao",
+    "salario": 3030.4
+  },
+  {
+    "nome": "Jo\u00e3o Souza",
+    "idade": 53,
+    "sexo": "Masculino",
+    "empregado": true,
+    "area_atuacao": "Administracao",
+    "salario": 9178.07
+  },
+  {
+    "nome": "Jo\u00e3o Santos",
+    "idade": 41,
+    "sexo": "Feminino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Ana Souza",
+    "idade": 23,
+    "sexo": "Feminino",
+    "empregado": true,
+    "area_atuacao": "Engenharia",
+    "salario": 9973.85
+  },
+  {
+    "nome": "Isabel Silva",
+    "idade": 45,
+    "sexo": "Masculino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Lucas Silva",
+    "idade": 35,
+    "sexo": "Feminino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Gabriela Costa",
+    "idade": 24,
+    "sexo": "Feminino",
+    "empregado": true,
+    "area_atuacao": "Saude",
+    "salario": 5372.44
+  },
+  {
+    "nome": "Lucas Martins",
+    "idade": 31,
+    "sexo": "Feminino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Rafael Martins",
+    "idade": 29,
+    "sexo": "Masculino",
+    "empregado": true,
+    "area_atuacao": "Financas",
+    "salario": 6556.47
+  },
+  {
+    "nome": "Rafael Oliveira",
+    "idade": 41,
+    "sexo": "Masculino",
+    "empregado": true,
+    "area_atuacao": "Saude",
+    "salario": 8880.23
+  },
+  {
+    "nome": "Lucas Almeida",
+    "idade": 27,
+    "sexo": "Masculino",
+    "empregado": true,
+    "area_atuacao": "Saude",
+    "salario": 5496.37
+  },
+  {
+    "nome": "Ana Costa",
+    "idade": 44,
+    "sexo": "Feminino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Ana Souza",
+    "idade": 56,
+    "sexo": "Feminino",
+    "empregado": true,
+    "area_atuacao": "TI",
+    "salario": 7083.05
+  },
+  {
+    "nome": "Pedro Silva",
+    "idade": 53,
+    "sexo": "Feminino",
+    "empregado": true,
+    "area_atuacao": "Educacao",
+    "salario": 9158.32
+  },
+  {
+    "nome": "Camila Lima",
+    "idade": 43,
+    "sexo": "Feminino",
+    "empregado": true,
+    "area_atuacao": "TI",
+    "salario": 6520.94
+  },
+  {
+    "nome": "Jo\u00e3o Lima",
+    "idade": 18,
+    "sexo": "Masculino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Isabel Lima",
+    "idade": 58,
+    "sexo": "Masculino",
+    "empregado": true,
+    "area_atuacao": "Saude",
+    "salario": 9420.25
+  },
+  {
+    "nome": "Carlos Silva",
+    "idade": 53,
+    "sexo": "Masculino",
+    "empregado": true,
+    "area_atuacao": "Administracao",
+    "salario": 8190.21
+  },
+  {
+    "nome": "Gabriela Silva",
+    "idade": 49,
+    "sexo": "Masculino",
+    "empregado": true,
+    "area_atuacao": "Financas",
+    "salario": 7576.73
+  },
+  {
+    "nome": "Mariana Silva",
+    "idade": 52,
+    "sexo": "Feminino",
+    "empregado": true,
+    "area_atuacao": "Administracao",
+    "salario": 5769.68
+  },
+  {
+    "nome": "Ana Costa",
+    "idade": 42,
+    "sexo": "Masculino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Gabriela Costa",
+    "idade": 42,
+    "sexo": "Masculino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Rafael Ribeiro",
+    "idade": 25,
+    "sexo": "Feminino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Mariana Ribeiro",
+    "idade": 21,
+    "sexo": "Feminino",
+    "empregado": true,
+    "area_atuacao": "Administracao",
+    "salario": 3330.83
+  },
+  {
+    "nome": "Jo\u00e3o Pereira",
+    "idade": 23,
+    "sexo": "Feminino",
+    "empregado": true,
+    "area_atuacao": "Saude",
+    "salario": 7839.46
+  },
+  {
+    "nome": "Isabel Costa",
+    "idade": 42,
+    "sexo": "Masculino",
+    "empregado": true,
+    "area_atuacao": "Educacao",
+    "salario": 8484.96
+  },
+  {
+    "nome": "Lucas Souza",
+    "idade": 51,
+    "sexo": "Masculino",
+    "empregado": true,
+    "area_atuacao": "TI",
+    "salario": 4082.09
+  },
+  {
+    "nome": "Gabriela Santos",
+    "idade": 57,
+    "sexo": "Masculino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Rafael Pereira",
+    "idade": 54,
+    "sexo": "Masculino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Pedro Almeida",
+    "idade": 54,
+    "sexo": "Masculino",
+    "empregado": true,
+    "area_atuacao": "Saude",
+    "salario": 8674.21
+  },
+  {
+    "nome": "Camila Souza",
+    "idade": 19,
+    "sexo": "Feminino",
+    "empregado": true,
+    "area_atuacao": "Educacao",
+    "salario": 5799.22
+  },
+  {
+    "nome": "Mariana Costa",
+    "idade": 52,
+    "sexo": "Masculino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Pedro Santos",
+    "idade": 18,
+    "sexo": "Masculino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Lucas Silva",
+    "idade": 22,
+    "sexo": "Masculino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Rafael Souza",
+    "idade": 38,
+    "sexo": "Masculino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Isabel Silva",
+    "idade": 32,
+    "sexo": "Masculino",
+    "empregado": true,
+    "area_atuacao": "TI",
+    "salario": 9630.46
+  },
+  {
+    "nome": "Ana Ribeiro",
+    "idade": 35,
+    "sexo": "Feminino",
+    "empregado": true,
+    "area_atuacao": "TI",
+    "salario": 3244.61
+  },
+  {
+    "nome": "Camila Santos",
+    "idade": 51,
+    "sexo": "Feminino",
+    "empregado": true,
+    "area_atuacao": "Administracao",
+    "salario": 5733.27
+  },
+  {
+    "nome": "Jo\u00e3o Souza",
+    "idade": 27,
+    "sexo": "Masculino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Ana Santos",
+    "idade": 53,
+    "sexo": "Masculino",
+    "empregado": true,
+    "area_atuacao": "Financas",
+    "salario": 8073.44
+  },
+  {
+    "nome": "Mariana Martins",
+    "idade": 34,
+    "sexo": "Feminino",
+    "empregado": true,
+    "area_atuacao": "Financas",
+    "salario": 4915.3
+  },
+  {
+    "nome": "Isabel Almeida",
+    "idade": 25,
+    "sexo": "Masculino",
+    "empregado": true,
+    "area_atuacao": "Engenharia",
+    "salario": 7101.1
+  },
+  {
+    "nome": "Isabel Lima",
+    "idade": 58,
+    "sexo": "Feminino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Pedro Santos",
+    "idade": 55,
+    "sexo": "Feminino",
+    "empregado": true,
+    "area_atuacao": "Educacao",
+    "salario": 8806.53
+  },
+  {
+    "nome": "Carlos Costa",
+    "idade": 40,
+    "sexo": "Feminino",
+    "empregado": true,
+    "area_atuacao": "Saude",
+    "salario": 3767.75
+  },
+  {
+    "nome": "Mariana Oliveira",
+    "idade": 36,
+    "sexo": "Masculino",
+    "empregado": true,
+    "area_atuacao": "Educacao",
+    "salario": 5952.9
+  },
+  {
+    "nome": "Ana Oliveira",
+    "idade": 23,
+    "sexo": "Feminino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Lucas Pereira",
+    "idade": 38,
+    "sexo": "Masculino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Isabel Santos",
+    "idade": 41,
+    "sexo": "Feminino",
+    "empregado": true,
+    "area_atuacao": "TI",
+    "salario": 8815.8
+  },
+  {
+    "nome": "Ana Ribeiro",
+    "idade": 54,
+    "sexo": "Feminino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Carlos Santos",
+    "idade": 30,
+    "sexo": "Feminino",
+    "empregado": true,
+    "area_atuacao": "Educacao",
+    "salario": 9230.05
+  },
+  {
+    "nome": "Mariana Pereira",
+    "idade": 58,
+    "sexo": "Feminino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Mariana Costa",
+    "idade": 56,
+    "sexo": "Masculino",
+    "empregado": true,
+    "area_atuacao": "Administracao",
+    "salario": 4937.56
+  },
+  {
+    "nome": "Ana Costa",
+    "idade": 52,
+    "sexo": "Masculino",
+    "empregado": true,
+    "area_atuacao": "Engenharia",
+    "salario": 8232.14
+  },
+  {
+    "nome": "Jo\u00e3o Almeida",
+    "idade": 50,
+    "sexo": "Feminino",
+    "empregado": true,
+    "area_atuacao": "Marketing",
+    "salario": 8504.83
+  },
+  {
+    "nome": "Ana Oliveira",
+    "idade": 39,
+    "sexo": "Masculino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Camila Santos",
+    "idade": 24,
+    "sexo": "Masculino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Isabel Oliveira",
+    "idade": 18,
+    "sexo": "Masculino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Jo\u00e3o Oliveira",
+    "idade": 44,
+    "sexo": "Masculino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Isabel Silva",
+    "idade": 20,
+    "sexo": "Masculino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Gabriela Souza",
+    "idade": 32,
+    "sexo": "Masculino",
+    "empregado": true,
+    "area_atuacao": "Financas",
+    "salario": 3972.79
+  },
+  {
+    "nome": "Ana Lima",
+    "idade": 60,
+    "sexo": "Masculino",
+    "empregado": true,
+    "area_atuacao": "Educacao",
+    "salario": 4027.77
+  },
+  {
+    "nome": "Camila Almeida",
+    "idade": 52,
+    "sexo": "Feminino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Camila Santos",
+    "idade": 22,
+    "sexo": "Feminino",
+    "empregado": false,
+    "area_atuacao": "Nenhuma",
+    "salario": 0
+  },
+  {
+    "nome": "Ana",
+    "idade": 42,
+    "sexo": "Feminino",
+    "empregado": false,
+    "area_atuacao": "Saude",
+    "salario": 2500.0
+  }
+]
