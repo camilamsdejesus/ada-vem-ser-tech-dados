@@ -1,9 +1,9 @@
-Area Atuacao,Qtd Pessoas,Media Idade,Max Nome,Max Salario,Min Nome,Min Salario
-Educacao,76,40.98684210526316,Ana Souza,9973.85,Pedro Martins,0
-Engenharia,70,41.457142857142856,Ana Souza,9973.85,Pedro Martins,0
-Financas,75,39.266666666666666,Ana Souza,9973.85,Pedro Martins,0
-Administracao,72,40.513888888888886,Ana Souza,9973.85,Pedro Martins,0
-Saude,84,39.345238095238095,Ana Souza,9973.85,Pedro Martins,0
-Nenhuma,476,38.1890756302521,Ana Souza,9973.85,Pedro Martins,0
-Marketing,72,39.31944444444444,Ana Souza,9973.85,Pedro Martins,0
-TI,76,37.671052631578945,Ana Souza,9973.85,Pedro Martins,0
+Area Atuacao;Qtd Pessoas;Media Idade;Max Nome;Max Salario;Min Nome;Min Salario
+Educacao;76;40.99;Rafael Silva;9835.51;Camila Costa;3030.4
+Engenharia;70;41.46;Ana Souza;9973.85;Lucas Almeida;3010.92
+Financas;75;39.27;Rafael Pereira;9862.6;Lucas Lima;3111.37
+Administracao;72;40.51;Camila Costa;9923.61;Rafael Almeida;3094.83
+Saude;84;39.35;Camila Almeida;9807.2;Ana;2500.0
+Nenhuma;476;38.19;Pedro Martins;0;Pedro Martins;0
+Marketing;72;39.32;Pedro Almeida;9911.63;Carlos Almeida;3234.96
+TI;76;37.67;Mariana Santos;9952.94;Ana Ribeiro;3006.66
