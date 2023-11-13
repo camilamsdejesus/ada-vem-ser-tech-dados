@@ -1,9 +1,9 @@
 Area Atuacao,Qtd Pessoas,Media Idade,Max Nome,Max Salario,Min Nome,Min Salario
-Educacao,{'Educacao': 76},40.98684210526316,Ana Souza,9973.85,Pedro Martins,0
-Engenharia,{'Engenharia': 70},41.457142857142856,Ana Souza,9973.85,Pedro Martins,0
-Financas,{'Financas': 75},39.266666666666666,Ana Souza,9973.85,Pedro Martins,0
-Administracao,{'Administracao': 72},40.513888888888886,Ana Souza,9973.85,Pedro Martins,0
-Saude,{'Saude': 84},39.345238095238095,Ana Souza,9973.85,Pedro Martins,0
-Nenhuma,{'Nenhuma': 476},38.1890756302521,Ana Souza,9973.85,Pedro Martins,0
-Marketing,{'Marketing': 72},39.31944444444444,Ana Souza,9973.85,Pedro Martins,0
-TI,{'TI': 76},37.671052631578945,Ana Souza,9973.85,Pedro Martins,0
+Educacao,76,40.98684210526316,Ana Souza,9973.85,Pedro Martins,0
+Engenharia,70,41.457142857142856,Ana Souza,9973.85,Pedro Martins,0
+Financas,75,39.266666666666666,Ana Souza,9973.85,Pedro Martins,0
+Administracao,72,40.513888888888886,Ana Souza,9973.85,Pedro Martins,0
+Saude,84,39.345238095238095,Ana Souza,9973.85,Pedro Martins,0
+Nenhuma,476,38.1890756302521,Ana Souza,9973.85,Pedro Martins,0
+Marketing,72,39.31944444444444,Ana Souza,9973.85,Pedro Martins,0
+TI,76,37.671052631578945,Ana Souza,9973.85,Pedro Martins,0
