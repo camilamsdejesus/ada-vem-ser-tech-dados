@@ -8001,10 +8001,10 @@
   },
   {
     "nome": "Ana",
-    "idade": 42,
+    "idade": 30,
     "sexo": "Feminino",
     "empregado": false,
-    "area_atuacao": "Saude",
-    "salario": 2500.0
+    "area_atuacao": "TI",
+    "salario": 50000
   }
 ]
