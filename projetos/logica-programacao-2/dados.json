@@ -8005,6 +8005,30 @@
     "sexo": "Feminino",
     "empregado": false,
     "area_atuacao": "TI",
-    "salario": 50000
+    "salario": 20.0
+  },
+  {
+    "nome": "Mario da Costa",
+    "idade": 19,
+    "sexo": "Masculino",
+    "empregado": false,
+    "area_atuacao": "TI",
+    "salario": 3500.0
+  },
+  {
+    "nome": "Maria Jo\u00e3o",
+    "idade": 25,
+    "sexo": "Feminino",
+    "empregado": false,
+    "area_atuacao": "TI",
+    "salario": 4500.0
+  },
+  {
+    "nome": "Mari",
+    "idade": 18,
+    "sexo": "Feminino",
+    "empregado": false,
+    "area_atuacao": "TI",
+    "salario": 2500.0
   }
 ]
